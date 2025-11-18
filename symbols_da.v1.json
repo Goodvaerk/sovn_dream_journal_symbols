@@ -1,0 +1,1174 @@
+{
+  "schemaVersion": 1,
+  "language": "da",
+  "defaultTheory": "jung",
+  "supportedTheories": [
+    "jung"
+  ],
+  "symbols": [
+    {
+      "id": "snake",
+      "category": "dyr",
+      "name": "Slange",
+      "shortSummary": "Instinkter, transformation, frygt eller skjult spænding.",
+      "keywords": [
+        "slange",
+        "bid",
+        "gift"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Skyggen"
+          ],
+          "oneLine": "Instinktiv, ubevidst energi, der kan føles farlig eller forvandlende.",
+          "summary": "I jungiansk drømmearbejde peger slanger ofte på instinktiv eller ubevidst energi, der er ved at vågne. De kan virke truende, men rummer også mulighed for heling og forandring, når du møder dem bevidst.",
+          "questions": [
+            "Hvor i dit liv mærker du en kraftfuld energi, du både frygter og tiltrækkes af?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "spider",
+      "category": "dyr",
+      "name": "Edderkop",
+      "shortSummary": "Kontrol, kompleksitet, kreativitet eller at føle sig fanget.",
+      "keywords": [
+        "edderkop",
+        "spindelvæv",
+        "fælde",
+        "bid"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Den store moder",
+            "Skyggen"
+          ],
+          "oneLine": "De mønstre, relationer eller bekymringer du føler dig fanget i.",
+          "summary": "Edderkopper og spind kan symbolisere netværk af relationer, vaner eller bekymringer, du er viklet ind i. De kan også pege på kreativitet og tålmodig opbygning af noget over tid.",
+          "questions": [
+            "Er der en situation, hvor du føler dig fanget i andres forventninger eller dine egne mønstre?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dog",
+      "category": "dyr",
+      "name": "Hund",
+      "shortSummary": "Loyalitet, beskyttelse, instinkter og venskab.",
+      "keywords": [
+        "hund",
+        "hvalp",
+        "kæledyr",
+        "bid"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Følgesvend"
+          ],
+          "oneLine": "Din instinktive loyalitet og behov for venskab eller beskyttelse.",
+          "summary": "Hunde i drømme handler ofte om loyalitet, venskab og beskyttende impulser. En venlig hund kan afspejle tillid og støtte, mens en truende hund kan pege på konflikter omkring grænser eller loyalitet.",
+          "questions": [
+            "Hvor i dit liv fylder temaer om tillid, støtte eller beskyttelse lige nu?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cat",
+      "category": "dyr",
+      "name": "Kat",
+      "shortSummary": "Uafhængighed, intuition, sanselighed og mystik.",
+      "keywords": [
+        "kat",
+        "killing"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Anima",
+            "Trickster"
+          ],
+          "oneLine": "Din intuitive, uafhængige og til tider uforudsigelige side.",
+          "summary": "Katte kan symbolisere uafhængighed, sanselighed og intuition. De kan pege på et behov for mere plads til dig selv eller en mere legende, selvstyret måde at leve på.",
+          "questions": [
+            "Giver du dig selv nok frihed og leg i hverdagen?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "bird",
+      "category": "dyr",
+      "name": "Fugl",
+      "shortSummary": "Frihed, overblik og budskaber fra det ubevidste.",
+      "keywords": [
+        "fugl",
+        "flyve",
+        "sang"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Ånd"
+          ],
+          "oneLine": "Et ønske om frihed, overblik eller åndeligt udsyn.",
+          "summary": "Fugle udtrykker ofte ønsket om at hæve sig over en situation og se den lidt oppefra. De kan også symbolisere inspiration, ånd eller vigtige budskaber fra det ubevidste.",
+          "questions": [
+            "Er der et område, hvor du har brug for mere frihed eller overblik?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "teeth_falling",
+      "category": "krop",
+      "name": "Tænder der falder ud",
+      "shortSummary": "Sårbarhed, tab af kontrol, ydre image eller kommunikation.",
+      "keywords": [
+        "tænder",
+        "falder ud",
+        "mund"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Persona"
+          ],
+          "oneLine": "Angst for hvordan du tager dig ud, eller for at miste din stemme.",
+          "summary": "Drømme om tænder der falder ud er udbredte, når vi bekymrer os om, hvordan vi ser ud, ældes eller mister kontrol. De kan også afspejle frygt for at sige noget forkert eller ikke blive hørt.",
+          "questions": [
+            "Er du optaget af, hvordan andre ser dig, eller om du mister indflydelse et sted?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "flying",
+      "category": "bevægelse",
+      "name": "At flyve",
+      "shortSummary": "Frihed, styrke, kreativitet eller flugt.",
+      "keywords": [
+        "flyve",
+        "luft",
+        "himmel"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Helten",
+            "Ånd"
+          ],
+          "oneLine": "Ønsket om at hæve dig over begrænsninger og føle dig fri.",
+          "summary": "At flyve i drømme kan afspejle følelser af frihed, kraft og udvidelse. Det kan vise selvtillid og kreativitet, men også et ønske om at slippe væk fra noget tungt.",
+          "questions": [
+            "Hvor længes du efter at føle dig lettere eller mere fri i dit liv?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "falling",
+      "category": "bevægelse",
+      "name": "At falde",
+      "shortSummary": "Tab af kontrol, usikkerhed eller overgivelse.",
+      "keywords": [
+        "falde",
+        "styrte",
+        "tomrum"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Hvermand"
+          ],
+          "oneLine": "Øjeblikket hvor du ikke længere kan holde alting samlet.",
+          "summary": "At falde kan symbolisere tab af kontrol, frygt for nederlag eller oplevelsen af at være overvældet. Det kan også pege på behovet for at give slip og stole på en dybere proces.",
+          "questions": [
+            "Er der et område, hvor du frygter at miste kontrollen eller 'falde' foran andre?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "being_chased",
+      "category": "situationer",
+      "name": "At blive jagtet",
+      "shortSummary": "Undgåelse, frygt og uforløste følelser.",
+      "keywords": [
+        "jagtet",
+        "løbe",
+        "forfulgt"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Skyggen"
+          ],
+          "oneLine": "Noget du prøver at løbe fra i stedet for at vende dig imod.",
+          "summary": "At blive jagtet peger ofte på følelser, minder eller opgaver, du prøver at undgå. Forfølgeren kan være din egen frygt, vrede eller længsel, som vil i kontakt.",
+          "questions": [
+            "Hvad kunne du være på flugt fra i dit vågne liv?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "late",
+      "category": "situationer",
+      "name": "At komme for sent",
+      "shortSummary": "Pres, forventninger og frygt for at svigte.",
+      "keywords": [
+        "for sent",
+        "forsinket",
+        "tid"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Persona"
+          ],
+          "oneLine": "Angst for ikke at leve op til krav eller at misse en mulighed.",
+          "summary": "Drømme om at komme for sent afspejler stress omkring deadlines, forventninger eller 'livsmilepæle'. De kan pege på frygt for at gå glip af noget eller ikke slå til.",
+          "questions": [
+            "Hvor i dit liv føler du tids pres eller frygt for at være for sent ude?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "exam",
+      "category": "situationer",
+      "name": "Eksamen",
+      "shortSummary": "Selvvurdering, præstation og indre kritik.",
+      "keywords": [
+        "eksamen",
+        "prøve",
+        "skole"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Dommer",
+            "Elev"
+          ],
+          "oneLine": "Oplevelsen af at blive bedømt eller testet – ofte af dig selv.",
+          "summary": "Eksamensdrømme dukker op, når du vurderer dig selv hårdt eller føler, at livet tester dig. De kan pege på perfektionisme, snydersyndrom eller frygt for ikke at være forberedt.",
+          "questions": [
+            "På hvilket område føler du lige nu, at du skal 'bestå en prøve'?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "naked_in_public",
+      "category": "situationer",
+      "name": "Nøgen blandt andre",
+      "shortSummary": "Blottelse, skam og autenticitet.",
+      "keywords": [
+        "nøgen",
+        "offentligt",
+        "pinlig"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Persona",
+            "Barnet"
+          ],
+          "oneLine": "Frygt og lettelse ved at blive set, som du er.",
+          "summary": "At være nøgen blandt andre afspejler sårbarhed og frygt for andres dom. Det kan også pege på et ønske om at slippe roller og være mere ægte.",
+          "questions": [
+            "Er der en del af dig, der længes efter at være mere ærlig eller synlig – trods risikoen?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "house",
+      "category": "steder",
+      "name": "Hus",
+      "shortSummary": "Selvet, dit indre liv og personlighedens mange rum.",
+      "keywords": [
+        "hus",
+        "hjem",
+        "bygning"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Selvet"
+          ],
+          "oneLine": "Strukturen i din indre verden og selvoplevelse.",
+          "summary": "Huse i drømme symboliserer ofte dit hele jeg eller din psyke. Etager og rum kan stå for forskellige livsområder, minder eller potentialer.",
+          "questions": [
+            "Hvis huset var et billede på din indre verden, hvad fortæller dets tilstand så?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "room",
+      "category": "steder",
+      "name": "Rum",
+      "shortSummary": "Et bestemt livsområde, en erindring eller indre plads.",
+      "keywords": [
+        "rum",
+        "værelse",
+        "stue"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Selvet"
+          ],
+          "oneLine": "Et afgrænset område af dit indre eller ydre liv.",
+          "summary": "Et rum kan pege på et særligt domæne som nærhed, arbejde eller hvile. Nye eller skjulte rum kan vise endnu uopdagede sider af dig selv.",
+          "questions": [
+            "Hvilken del af dit liv minder dette rum dig mest om?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "door",
+      "category": "objekter",
+      "name": "Dør",
+      "shortSummary": "Overgang, grænser og valg.",
+      "keywords": [
+        "dør",
+        "indgang",
+        "udgang"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Tærskelvogter"
+          ],
+          "oneLine": "Et valg om, hvad du lukker ind eller ud af dit liv.",
+          "summary": "Døre markerer overgange og grænser. Låste døre kan vise blokerede muligheder, mens åbne døre kan pege på villighed til forandring.",
+          "questions": [
+            "Står du overfor en konkret overgang eller beslutning lige nu?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "window",
+      "category": "objekter",
+      "name": "Vindue",
+      "shortSummary": "Perspektiv, indblik og distance.",
+      "keywords": [
+        "vindue",
+        "udsigt",
+        "glas"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Seeren"
+          ],
+          "oneLine": "Måden du ser på verden eller en situation.",
+          "summary": "Vinduer handler om, hvordan du ser tingene, og hvad du tillader dig at lægge mærke til. At kigge ud kan udtrykke længsel, mens at kigge ind kan vise nysgerrighed på dit indre.",
+          "questions": [
+            "Hvilket perspektiv kunne hjælpe dig med at se din situation mere klart?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "water",
+      "category": "natur",
+      "name": "Vand",
+      "shortSummary": "Følelser, flow og det ubevidste.",
+      "keywords": [
+        "vand",
+        "væske",
+        "vandpyt"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Den store moder"
+          ],
+          "oneLine": "Dit følelsesliv og dybere stemninger.",
+          "summary": "Vand symboliserer følelser og det ubevidste. Roligt vand kan pege på balance, mens uroligt eller beskidt vand kan vise uro eller forvirring.",
+          "questions": [
+            "Hvis du beskrev dit følelsesliv som vand, hvordan ville det så se ud?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ocean",
+      "category": "natur",
+      "name": "Hav",
+      "shortSummary": "Dybe følelser, kollektivt ubevidste og ærefrygt.",
+      "keywords": [
+        "hav",
+        "bølger",
+        "sø"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Selvet",
+            "Den store moder"
+          ],
+          "oneLine": "De store, til tider overvældende dybder i følelser og psyke.",
+          "summary": "Havet kan stå for det kollektive ubevidste eller meget dybe følelser. Det kan vække ærefrygt, frygt eller en følelse af at være lille i noget meget stort.",
+          "questions": [
+            "Føler du dig i øjebliklet overvældet af noget større end dig – eller båret af det?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "river",
+      "category": "natur",
+      "name": "Flod",
+      "shortSummary": "Livsflow, bevægelse og overgang.",
+      "keywords": [
+        "flod",
+        "å",
+        "strøm"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Selvet"
+          ],
+          "oneLine": "Retningen og tempoet i dit liv lige nu.",
+          "summary": "Floder symboliserer livets strøm og tidens gang. At krydse, følge eller kæmpe imod strømmen viser, hvordan du forholder dig til forandring.",
+          "questions": [
+            "Går du med strømmen et sted, eller kæmper du imod den?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fire",
+      "category": "natur",
+      "name": "Ild",
+      "shortSummary": "Passion, vrede, renselse og ødelæggelse.",
+      "keywords": [
+        "ild",
+        "flammer",
+        "brænde"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Krigeren",
+            "Forvandleren"
+          ],
+          "oneLine": "En intens energi, der både kan varme og brænde.",
+          "summary": "Ild kan udtrykke passion, kreativitet og vilje – eller vrede og ødelæggelse. Kontrolleret ild renser, mens ukontrolleret ild kan føles farlig.",
+          "questions": [
+            "Hvor i dit liv er der stærk 'varme' – som passion eller vrede – der kalder på opmærksomhed?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "car",
+      "category": "objekter",
+      "name": "Bil",
+      "shortSummary": "Retning, autonomi og hverdagens livsrejse.",
+      "keywords": [
+        "bil",
+        "køre",
+        "køretøj"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Helten"
+          ],
+          "oneLine": "Hvordan du styrer dit liv, og hvem der sidder bag rattet.",
+          "summary": "Biler symboliserer din måde at bevæge dig gennem livet på. Hvem der kører, bilens tilstand og vejen siger noget om kontrol, energi og retning.",
+          "questions": [
+            "På hvilken måde føler du dig for tiden ved rattet – eller som passager?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "train",
+      "category": "objekter",
+      "name": "Tog",
+      "shortSummary": "Fælles retning, rutiner og timing.",
+      "keywords": [
+        "tog",
+        "station",
+        "skinner"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Hvermand"
+          ],
+          "oneLine": "At blive båret af en fælles retning eller tidsplan.",
+          "summary": "Tog kan afspejle kollektive spor som karriereveje eller sociale forventninger. At misse et tog kan pege på frygt for at misse en mulighed.",
+          "questions": [
+            "Følger du et spor, du selv har valgt – eller mest andres forventninger?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "airplane",
+      "category": "objekter",
+      "name": "Fly",
+      "shortSummary": "Store skift, ambitioner og afstand.",
+      "keywords": [
+        "fly",
+        "lufthavn",
+        "rejse"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Helten",
+            "Opdageren"
+          ],
+          "oneLine": "Store forandringer eller mål, der løfter dig ind i nyt territorium.",
+          "summary": "Fly forbindes med lange afstande, store forandringer og ambitioner. Start, turbulens eller styrt belyser forskellige følelser omkring risiko og vækst.",
+          "questions": [
+            "Er der en større forandring eller et mål, du er ved at 'lette' imod?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "elevator",
+      "category": "objekter",
+      "name": "Elevator",
+      "shortSummary": "Op- og nedture, status og hurtige skift.",
+      "keywords": [
+        "elevator",
+        "lift",
+        "op",
+        "ned"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Hvermand"
+          ],
+          "oneLine": "Hurtige bevægelser mellem niveauer af stemning, status eller indsigt.",
+          "summary": "Elevatorer repræsenterer hurtige skift op eller ned. At sidde fast kan afspejle følelsen af at være fanget mellem tilstande eller beslutninger.",
+          "questions": [
+            "Oplever du hurtige følelsesmæssige udsving eller pludselige ændringer for tiden?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "forest",
+      "category": "natur",
+      "name": "Skov",
+      "shortSummary": "Det ubevidste, forvirring og potentiale.",
+      "keywords": [
+        "skov",
+        "træer",
+        "krat"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Skyggen",
+            "Selvet"
+          ],
+          "oneLine": "De vilde, ukendte dele af dig selv og livet.",
+          "summary": "Skove symboliserer det ubevidste og det ukendte. At fare vild kan vise forvirring, mens udforskning kan afspejle mod til at møde indre materiale.",
+          "questions": [
+            "Er der et område i dit liv, der føles som 'mørk skov' lige nu?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mountain",
+      "category": "natur",
+      "name": "Bjerg",
+      "shortSummary": "Mål, udfordringer og udsyn.",
+      "keywords": [
+        "bjerg",
+        "top",
+        "bestige"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Helten"
+          ],
+          "oneLine": "Den udfordring eller det mål, du prøver at leve op til.",
+          "summary": "Bjerge står for udfordringer, ambitioner og åndeligt udsyn. At klatre kan udtrykke stræben; at stå på toppen kan vise overblik eller sejr.",
+          "questions": [
+            "Hvilken stor udfordring eller hvilket mål minder bjerget dig om?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "baby",
+      "category": "personer",
+      "name": "Baby",
+      "shortSummary": "Nye begyndelser, sårbarhed og potentiale.",
+      "keywords": [
+        "baby",
+        "spædbarn",
+        "nyfødt"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Barnet"
+          ],
+          "oneLine": "En ny, sårbar del af dit liv eller dig selv, der kræver omsorg.",
+          "summary": "Babyer symboliserer ofte nye projekter, relationer eller sider af dig selv. Deres tilstand viser, hvordan du forholder dig til denne begyndelse.",
+          "questions": [
+            "Er der noget nyt i dit liv, der har brug for mere beskyttelse eller opmærksomhed?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "child",
+      "category": "personer",
+      "name": "Barn",
+      "shortSummary": "Uskyld, leg og gamle sår.",
+      "keywords": [
+        "barn",
+        "dreng",
+        "pige"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Barnet"
+          ],
+          "oneLine": "Din legende, sårbare eller sårede yngre del.",
+          "summary": "Børn kan repræsentere dit indre barn med dets behov, glæde og smerte. Barnets humør spejler, hvordan den del af dig har det.",
+          "questions": [
+            "Hvad kunne barnet i drømmen have brug for fra dig?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "old_person",
+      "category": "personer",
+      "name": "Ældre person",
+      "shortSummary": "Visdom, aldring og begrænsninger.",
+      "keywords": [
+        "ældre person",
+        "gammel",
+        "bedsteforælder"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Den vise gamle mand",
+            "Den vise gamle kvinde"
+          ],
+          "oneLine": "Den del af dig, der ved mere end din hverdagsside.",
+          "summary": "En ældre person kan symbolisere visdom, erfaring eller realiteten af alder og begrænsninger. De kan optræde som vejleder, kritiker eller påmindelse om tid.",
+          "questions": [
+            "Hvilket budskab eller hvilken holdning fra denne ældre figur bliver hos dig?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "shadow_figure",
+      "category": "personer",
+      "name": "Skyggeskikkelse",
+      "shortSummary": "Fortrængte sider, frygt og kraft.",
+      "keywords": [
+        "skygge",
+        "mørk figur",
+        "ukendt person"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Skyggen"
+          ],
+          "oneLine": "De sider af dig, der føles fremmede, skræmmende eller uacceptable.",
+          "summary": "Skyggeskikkelser repræsenterer træk eller følelser, du ikke vil kendes ved. De kan virke truende, men rummer også blokeret energi og potentiale.",
+          "questions": [
+            "Hvilke træk hos andre reagerer du stærkt imod, som måske også findes i dig?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "partner",
+      "category": "personer",
+      "name": "Partner",
+      "shortSummary": "Nærhed, projektion og nuværende relationstemaer.",
+      "keywords": [
+        "partner",
+        "kæreste",
+        "ægtefælle"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Anima",
+            "Animus"
+          ],
+          "oneLine": "Din måde at være i nære relationer på, og hvad du lægger over på andre.",
+          "summary": "En partner i drømme rummer både din faktiske partners kvaliteter og dit indre billede af kærlighed og kontakt. Konflikter kan spejle indre spændinger.",
+          "questions": [
+            "Hvad ved drømmens partner føles genkendeligt fra dine vågne relationsmønstre?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ex_partner",
+      "category": "personer",
+      "name": "Ekskæreste",
+      "shortSummary": "Gamle mønstre, uforløste følelser og læring.",
+      "keywords": [
+        "eks",
+        "tidligere partner",
+        "brud"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Anima",
+            "Animus"
+          ],
+          "oneLine": "Gammel relationsenergi, der stadig lever i dig.",
+          "summary": "Ekskærester symboliserer uafsluttet følelsesmæssigt materiale eller gentagne mønstre i kærlighed. Drømmen kan pege på det, du stadig bærer med dig.",
+          "questions": [
+            "Hvad fra den tidligere relation kan stadig præge, hvordan du er i forhold i dag?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "friend",
+      "category": "personer",
+      "name": "Ven",
+      "shortSummary": "Støtte, tilhørsforhold og dit sociale jeg.",
+      "keywords": [
+        "ven",
+        "veninde",
+        "kammerat"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Følgesvend"
+          ],
+          "oneLine": "Måden du forbinder dig med andre på som ligeværdig.",
+          "summary": "Venner i drømme viser, hvordan du oplever støtte, lighed og forskellighed. Konflikter eller distance kan afspejle aktuelle sociale bekymringer.",
+          "questions": [
+            "Minder drømmens ven dig om den slags støtte, du ønsker eller savner?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "stranger",
+      "category": "personer",
+      "name": "Fremmed",
+      "shortSummary": "Ukendte sider af dig selv eller andre.",
+      "keywords": [
+        "fremmed",
+        "ukendt person"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Skyggen"
+          ],
+          "oneLine": "En del af livet eller dig selv, du endnu ikke kender.",
+          "summary": "Fremmede kan symbolisere nye kvaliteter, muligheder eller frygte, som endnu ikke er bevidste. Din følelse overfor dem er central.",
+          "questions": [
+            "Hvilken egenskab ved den fremmede står tydeligst, og hvor kunne den findes i dig?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "phone",
+      "category": "objekter",
+      "name": "Telefon",
+      "shortSummary": "Kommunikation, kontakt og undgåelse.",
+      "keywords": [
+        "telefon",
+        "opkald",
+        "besked"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Budbringer"
+          ],
+          "oneLine": "Hvordan du rækker ud, svarer eller undgår kontakt.",
+          "summary": "Telefoner symboliserer måder, du er i forbindelse med andre og med dig selv. Dårlig forbindelse eller missede opkald kan afspejle misset kontakt eller afstand.",
+          "questions": [
+            "Er der en samtale eller besked, du undgår eller længes efter?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "computer",
+      "category": "objekter",
+      "name": "Computer",
+      "shortSummary": "Tænkning, arbejde og digital identitet.",
+      "keywords": [
+        "computer",
+        "bærbar",
+        "skærm"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Tænkeren"
+          ],
+          "oneLine": "Din mentale bearbejdning og dit onlineliv.",
+          "summary": "Computere peger på rationel tænkning, arbejde og din digitale tilstedeværelse. Nedbrud eller virus kan spejle overload eller kontrolangst.",
+          "questions": [
+            "Føles dit mentale eller digitale liv overbelastet eller ude af balance?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "money",
+      "category": "objekter",
+      "name": "Penge",
+      "shortSummary": "Værdi, tryghed og selvværd.",
+      "keywords": [
+        "penge",
+        "kontanter",
+        "mønter"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Forsørgeren"
+          ],
+          "oneLine": "Hvordan du oplever ressourcer, sikkerhed og værdi.",
+          "summary": "Pengedrømme taler om tryghed, afhængighed og værdifølelse. At få eller miste penge kan afspejle oplevelsen af overflod eller frygt.",
+          "questions": [
+            "Hvor fylder spørgsmål om værdi og sikkerhed særligt for dig nu?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "work",
+      "category": "situationer",
+      "name": "Arbejde",
+      "shortSummary": "Ansvar, identitet og bidrag.",
+      "keywords": [
+        "arbejde",
+        "job",
+        "kontor"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Krigeren",
+            "Tjeneren"
+          ],
+          "oneLine": "Den måde du bruger din energi på og føler dig nyttig.",
+          "summary": "Arbejde i drømme afspejler, hvordan du forholder dig til indsats, pligt og anerkendelse. Stress på jobbet kan spejle indre pres og forventninger.",
+          "questions": [
+            "Hvor tilfreds er du med, hvordan og hvor du bruger din energi?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "school",
+      "category": "situationer",
+      "name": "Skole",
+      "shortSummary": "Læring, udvikling og gamle roller.",
+      "keywords": [
+        "skole",
+        "klasse",
+        "lærer"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Elev"
+          ],
+          "oneLine": "Situationer, hvor du føler, du skal lære eller bevise noget.",
+          "summary": "Skole i drømme kan genaktivere gamle mønstre om vurdering og tilhørsforhold. De kan også vise aktuelle læringsudfordringer i voksenlivet.",
+          "questions": [
+            "Føler du, at du stadig bliver målt eller sammenlignet et sted i dit liv?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "home_town",
+      "category": "steder",
+      "name": "Barndomsby",
+      "shortSummary": "Rødder, identitet og tidlige mønstre.",
+      "keywords": [
+        "barndomsby",
+        "hjemby"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Barnet"
+          ],
+          "oneLine": "Hvor du kommer fra psykisk og følelsesmæssigt.",
+          "summary": "At vende tilbage til din barndomsby peger på tidlige erfaringer og identiteter. Det kan både vise tryghed og gamle begrænsninger.",
+          "questions": [
+            "Hvilke gamle historier om dig selv dukker op, når du tænker på det sted?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "blood",
+      "category": "krop",
+      "name": "Blod",
+      "shortSummary": "Livskraft, sår og intensitet.",
+      "keywords": [
+        "blod",
+        "bløde"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Krigeren"
+          ],
+          "oneLine": "Vital energi, smerte eller offer.",
+          "summary": "Blod kan stå for livsenergi, følelsesmæssig smerte eller offer. Mængden og sammenhængen er vigtige for forståelsen.",
+          "questions": [
+            "Er der et område, hvor du føler dig tappet eller dybt følelsesmæssigt berørt?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "injury",
+      "category": "krop",
+      "name": "Skade",
+      "shortSummary": "Sår, sårbarhed og heling.",
+      "keywords": [
+        "skade",
+        "sår",
+        "såret"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Den sårede healer"
+          ],
+          "oneLine": "Et sted hvor du ikke er så stærk, som du kunne ønske.",
+          "summary": "Skader i drømme peger på steder, hvor du er ramt – fysisk, følelsesmæssigt eller relationelt. De kan også markere starten på en helingsproces.",
+          "questions": [
+            "Hvilken nyere eller ældre smerte kan denne skade minde om?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "death",
+      "category": "situationer",
+      "name": "Død",
+      "shortSummary": "Afslutning, forvandling og frygt for tab.",
+      "keywords": [
+        "død",
+        "døende"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Døden",
+            "Forvandleren"
+          ],
+          "oneLine": "Afslutningen på et kapitel – ikke nødvendigvis fysisk død.",
+          "summary": "Dødsdrømme symboliserer ofte afslutningen på en fase, rolle eller et mønster. De kan føles skræmmende, men peger tit på nødvendig forandring.",
+          "questions": [
+            "Er der noget i dit liv, der kan være klar til at slutte eller skifte form?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "birth",
+      "category": "situationer",
+      "name": "Fødsel",
+      "shortSummary": "Nye begyndelser, kreativitet og ansvar.",
+      "keywords": [
+        "fødsel",
+        "veer",
+        "nyt liv"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Moderen",
+            "Barnet"
+          ],
+          "oneLine": "Noget nyt vil ind i dit liv.",
+          "summary": "Fødsel i drømme peger på nye ideer, projekter eller identiteter. Det kan både vække glæde og bekymring for ansvar og forandring.",
+          "questions": [
+            "Hvilken ny udvikling i dit liv kan denne fødsel pege på?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "light",
+      "category": "natur",
+      "name": "Lys",
+      "shortSummary": "Indsigt, håb og klarhed.",
+      "keywords": [
+        "lys",
+        "klarhed",
+        "lampe"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Selvet"
+          ],
+          "oneLine": "Bevidsthed der bryder gennem forvirring eller mørke.",
+          "summary": "Lys symboliserer forståelse, håb og vejledning. Pludseligt lys kan vise en indsigt; svagt eller aftagende lys kan afspejle tvivl eller træthed.",
+          "questions": [
+            "Hvor er du ved at få mere klarhed – eller længes efter den?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "darkness",
+      "category": "natur",
+      "name": "Mørke",
+      "shortSummary": "Det ukendte, frygt og potentiale.",
+      "keywords": [
+        "mørke",
+        "nat",
+        "skygge"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Skyggen"
+          ],
+          "oneLine": "Det, du endnu ikke kan se eller forstå.",
+          "summary": "Mørke i drømme kan føles skræmmende, men rummer også uopdagede muligheder. Det inviterer til forsigtig udforskning.",
+          "questions": [
+            "Er der en situation, hvor du føler dig 'i mørke' lige nu?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "prison",
+      "category": "steder",
+      "name": "Fængsel",
+      "shortSummary": "Begrænsning, skyld og fastlåsthed.",
+      "keywords": [
+        "fængsel",
+        "celle",
+        "gitre"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Offeret",
+            "Dommeren"
+          ],
+          "oneLine": "At føle sig fanget af omstændigheder eller indre regler.",
+          "summary": "Fængsler symboliserer oplevelsen af at være indespærret, straffet eller ude af stand til at bevæge sig. Nogle gange er fangevogteren en indre kritiker eller et rigidt belief.",
+          "questions": [
+            "Hvor føler du dig fanget, og hvilke overbevisninger låser døren?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "crowd",
+      "category": "socialt",
+      "name": "Menneskemængde",
+      "shortSummary": "Tilhørsforhold, pres og anonymitet.",
+      "keywords": [
+        "menneskemængde",
+        "flok",
+        "gruppe"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Hvermand"
+          ],
+          "oneLine": "Gruppens tiltrækning – og frygten for at miste dig selv i den.",
+          "summary": "Folkemængder kan vise socialt pres, frygt for at skille sig ud eller længsel efter at høre til. De kan også spejle overstimulering.",
+          "questions": [
+            "Har du tendens til at gemme dig i mængden – eller til at føle dig væk i grupper?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "alone",
+      "category": "socialt",
+      "name": "At være alene",
+      "shortSummary": "Alenetid, uafhængighed og ensomhed.",
+      "keywords": [
+        "alene",
+        "isolere",
+        "for sig selv"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Eremitten"
+          ],
+          "oneLine": "Tid med dig selv – valgt eller uønsket.",
+          "summary": "At være alene i drømme kan føles fredfyldt eller smertefuldt. Det kan pege på behov for ro eller oplevelsen af at være afkoblet fra andre.",
+          "questions": [
+            "Føles det at være alene i drømmen nærende eller skræmmende – og hvorfor?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lost",
+      "category": "situationer",
+      "name": "At være faret vild",
+      "shortSummary": "Forvirring, overgang og søgen efter retning.",
+      "keywords": [
+        "vild",
+        "kan ikke finde vej",
+        "forvirret"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Søgeren"
+          ],
+          "oneLine": "Ikke at kende vejen – og alligevel være på vej.",
+          "summary": "At være faret vild afspejler usikkerhed om retning, identitet eller valg. Det kan også markere en nødvendig mellemfase, før noget nyt bliver tydeligt.",
+          "questions": [
+            "På hvilket område i livet er du i tvivl om næste skridt?"
+          ]
+        }
+      }
+    }
+  ]
+}

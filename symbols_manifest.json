@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "defaultLanguage": "en",
+  "languages": {
+    "en": {
+      "version": 1,
+      "url": "https://sovn-app.web.app/symbols/symbols_en.v1.json"
+    },
+    "da": {
+      "version": 1,
+      "url": "https://sovn-app.web.app/symbols/symbols_da.v1.json"
+    }
+  }
+}

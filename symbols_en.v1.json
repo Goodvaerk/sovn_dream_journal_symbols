@@ -1,0 +1,1179 @@
+{
+  "schemaVersion": 1,
+  "language": "en",
+  "defaultTheory": "jung",
+  "supportedTheories": [
+    "jung"
+  ],
+  "symbols": [
+    {
+      "id": "snake",
+      "category": "animals",
+      "name": "Snake",
+      "shortSummary": "Instincts, transformation, fear or hidden tension.",
+      "keywords": [
+        "snake",
+        "serpent",
+        "bite",
+        "venom",
+        "poison"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Shadow"
+          ],
+          "oneLine": "Instinctual, unconscious energy that can feel dangerous or transformative.",
+          "summary": "In Jungian dream work, snakes often point to instinctual or unconscious energy that is waking up. They can feel threatening, but also carry the potential for healing and transformation when faced consciously.",
+          "questions": [
+            "Where in your life do you sense a powerful energy that you both fear and are drawn to?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "spider",
+      "category": "animals",
+      "name": "Spider",
+      "shortSummary": "Control, complexity, creativity or feeling trapped.",
+      "keywords": [
+        "spider",
+        "web",
+        "trap",
+        "bite"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Great Mother",
+            "Shadow"
+          ],
+          "oneLine": "The web of relationships, patterns or fears you feel caught in.",
+          "summary": "Spiders and webs can symbolise the networks of relationships, habits or fears that you are entangled in. They may also point to creativity and the slow, patient building of something.",
+          "questions": [
+            "Is there a situation where you feel caught in a web of expectations or obligations?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dog",
+      "category": "animals",
+      "name": "Dog",
+      "shortSummary": "Loyalty, protection, instincts and friendship.",
+      "keywords": [
+        "dog",
+        "puppy",
+        "pet",
+        "bite"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Companion"
+          ],
+          "oneLine": "Your instinctive loyalty and need for companionship or protection.",
+          "summary": "Dogs often represent loyalty, friendship and protective instincts. A friendly dog can reflect trust and support, whereas an aggressive dog may show conflict around boundaries or loyalty.",
+          "questions": [
+            "Where in your life do themes of loyalty, trust or protection feel important right now?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cat",
+      "category": "animals",
+      "name": "Cat",
+      "shortSummary": "Independence, intuition, sensuality and mystery.",
+      "keywords": [
+        "cat",
+        "kitten",
+        "feline"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Anima",
+            "Trickster"
+          ],
+          "oneLine": "Your intuitive, independent and sometimes unpredictable side.",
+          "summary": "Cats can symbolise independence, sensuality and intuition. They may highlight a need for personal space or a more playful, self-directed way of living.",
+          "questions": [
+            "Are you allowing yourself enough independence and playfulness in daily life?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "bird",
+      "category": "animals",
+      "name": "Bird",
+      "shortSummary": "Freedom, perspective and messages from the unconscious.",
+      "keywords": [
+        "bird",
+        "flying",
+        "song"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Spirit"
+          ],
+          "oneLine": "A longing for freedom, overview or spiritual perspective.",
+          "summary": "Birds often express the wish to rise above a situation and see it from a higher perspective. They can also symbolise inspiration, spirit or important messages from the unconscious.",
+          "questions": [
+            "Is there an area of life where you need more freedom or a higher perspective?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "teeth_falling",
+      "category": "body",
+      "name": "Teeth falling out",
+      "shortSummary": "Vulnerability, loss of control, image or communication.",
+      "keywords": [
+        "teeth",
+        "falling out",
+        "mouth"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Persona"
+          ],
+          "oneLine": "Anxiety about how you appear or losing power to express yourself.",
+          "summary": "Dreams of teeth falling out are common when we worry about how we are seen, ageing, or losing control. They can also reflect fear of saying the wrong thing or not being heard.",
+          "questions": [
+            "Are you worried about how others see you or about losing influence in some area?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "flying",
+      "category": "movement",
+      "name": "Flying",
+      "shortSummary": "Freedom, power, creativity or escape.",
+      "keywords": [
+        "flying",
+        "air",
+        "sky"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Hero",
+            "Spirit"
+          ],
+          "oneLine": "The wish to rise above limits and feel free.",
+          "summary": "Flying dreams often reflect feelings of freedom, power and expansion. They may show confidence and creativity, or a wish to escape something that feels heavy.",
+          "questions": [
+            "Where do you long to feel lighter or more free in your life?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "falling",
+      "category": "movement",
+      "name": "Falling",
+      "shortSummary": "Loss of control, insecurity or surrender.",
+      "keywords": [
+        "falling",
+        "dropping",
+        "void"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Everyman"
+          ],
+          "oneLine": "The moment you can no longer hold everything together.",
+          "summary": "Falling can symbolise a loss of control, fear of failure or the experience of being overwhelmed. It may also invite you to let go and trust a deeper process.",
+          "questions": [
+            "Is there an area where you fear losing control or 'falling' in front of others?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "being_chased",
+      "category": "situations",
+      "name": "Being chased",
+      "shortSummary": "Avoidance, fear and unprocessed feelings.",
+      "keywords": [
+        "chased",
+        "running",
+        "pursuit"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Shadow"
+          ],
+          "oneLine": "Something you try to outrun instead of turning towards.",
+          "summary": "Being chased often represents feelings, memories or responsibilities you are trying to avoid. The pursuer can reflect your own fear, anger or desire seeking attention.",
+          "questions": [
+            "What might you be running away from in your waking life?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "late",
+      "category": "situations",
+      "name": "Being late",
+      "shortSummary": "Pressure, expectations and fear of failing others.",
+      "keywords": [
+        "late",
+        "delay",
+        "time"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Persona"
+          ],
+          "oneLine": "Anxiety about meeting demands or missing important chances.",
+          "summary": "Dreams of being late reflect stress around deadlines, expectations or 'life milestones'. They may show fear of missing out or not living up to your own or others' standards.",
+          "questions": [
+            "Where do you feel under time pressure or afraid of being too late?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "exam",
+      "category": "situations",
+      "name": "Exam",
+      "shortSummary": "Self-evaluation, performance and inner criticism.",
+      "keywords": [
+        "exam",
+        "test",
+        "school"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Judge",
+            "Student"
+          ],
+          "oneLine": "The feeling of being judged or tested, often by yourself.",
+          "summary": "Exam dreams appear when you evaluate yourself harshly or feel that life is testing you. They can highlight perfectionism, imposter feelings or fear of not being prepared.",
+          "questions": [
+            "In which area of life do you feel that you must 'pass a test' right now?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "naked_in_public",
+      "category": "situations",
+      "name": "Naked in public",
+      "shortSummary": "Exposure, shame and authenticity.",
+      "keywords": [
+        "naked",
+        "public",
+        "embarrassed"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Persona",
+            "Child"
+          ],
+          "oneLine": "The fear and relief of being seen as you truly are.",
+          "summary": "Being naked in public reflects vulnerability and fear of judgement. It may also hint at a desire to drop roles and be more authentic.",
+          "questions": [
+            "Is there a part of you that longs to be more honest or visible, despite the risk?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "house",
+      "category": "places",
+      "name": "House",
+      "shortSummary": "The self, inner life and different aspects of personality.",
+      "keywords": [
+        "house",
+        "home",
+        "building"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Self"
+          ],
+          "oneLine": "The structure of your inner world and sense of self.",
+          "summary": "Houses in dreams often symbolise your whole self or psyche. Different floors and rooms can represent different areas of life, memories or potentials.",
+          "questions": [
+            "If this house were your inner world, what does its state say about you right now?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "room",
+      "category": "places",
+      "name": "Room",
+      "shortSummary": "Specific life area, memory or inner space.",
+      "keywords": [
+        "room",
+        "bedroom",
+        "kitchen"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Self"
+          ],
+          "oneLine": "A focused part of your inner or outer life.",
+          "summary": "A room can point to a particular domain such as intimacy, work or rest. New or hidden rooms may reveal unexplored aspects of yourself.",
+          "questions": [
+            "What part of your life does this room remind you of?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "door",
+      "category": "objects",
+      "name": "Door",
+      "shortSummary": "Transition, boundaries and choices.",
+      "keywords": [
+        "door",
+        "entrance",
+        "exit"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Threshold Guardian"
+          ],
+          "oneLine": "A choice about what you let in or out of your life.",
+          "summary": "Doors mark transitions and boundaries. Locked doors may show blocked opportunities, while open doors suggest readiness for change.",
+          "questions": [
+            "Is there a decision or transition you are standing in front of right now?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "window",
+      "category": "objects",
+      "name": "Window",
+      "shortSummary": "Perspective, insight and distance.",
+      "keywords": [
+        "window",
+        "view",
+        "glass"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Seer"
+          ],
+          "oneLine": "How you look at the world or a situation.",
+          "summary": "Windows relate to how you see things and what you allow yourself to notice. Looking out can express longing, while looking in can show curiosity about your inner life.",
+          "questions": [
+            "What perspective might help you see your situation more clearly?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "water",
+      "category": "nature",
+      "name": "Water",
+      "shortSummary": "Emotions, flow and the unconscious.",
+      "keywords": [
+        "water",
+        "liquid",
+        "pool"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Great Mother"
+          ],
+          "oneLine": "Your emotional life and deeper feeling states.",
+          "summary": "Water symbolises emotions and the unconscious. Calm water suggests emotional balance, while stormy or dirty water can show turmoil or confusion.",
+          "questions": [
+            "How would you describe your emotional climate at the moment?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ocean",
+      "category": "nature",
+      "name": "Ocean",
+      "shortSummary": "Vast emotions, collective unconscious and awe.",
+      "keywords": [
+        "ocean",
+        "sea",
+        "waves"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Self",
+            "Great Mother"
+          ],
+          "oneLine": "The vast, sometimes overwhelming depths of feeling and psyche.",
+          "summary": "The ocean can represent the collective unconscious or very deep feelings. It may evoke awe, fear or a sense of being small in something much larger.",
+          "questions": [
+            "Do you currently feel overwhelmed by something bigger than you, or supported by it?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "river",
+      "category": "nature",
+      "name": "River",
+      "shortSummary": "Life flow, movement and transition.",
+      "keywords": [
+        "river",
+        "stream",
+        "current"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Self"
+          ],
+          "oneLine": "The direction and momentum of your life right now.",
+          "summary": "Rivers symbolise the flow of life and time. Crossing, following or resisting the current reveals how you relate to change.",
+          "questions": [
+            "Are you going with the flow in an area, or fighting against it?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fire",
+      "category": "nature",
+      "name": "Fire",
+      "shortSummary": "Passion, anger, purification and destruction.",
+      "keywords": [
+        "fire",
+        "flames",
+        "burning"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Warrior",
+            "Transformer"
+          ],
+          "oneLine": "Intense energy that can warm or burn.",
+          "summary": "Fire may express passion, creativity and willpower, or anger and destructiveness. Controlled fire purifies; uncontrolled fire can feel dangerous.",
+          "questions": [
+            "Where in your life is there strong heat — passion or anger — asking for attention?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "car",
+      "category": "objects",
+      "name": "Car",
+      "shortSummary": "Direction, autonomy and everyday life journey.",
+      "keywords": [
+        "car",
+        "driving",
+        "vehicle"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Hero"
+          ],
+          "oneLine": "How you steer your life and who sits in the driver's seat.",
+          "summary": "Cars symbolise your way of moving through life. Who drives, the condition of the car and the road all reflect your sense of control, energy and direction.",
+          "questions": [
+            "In what way do you currently feel 'in the driver's seat' — or not?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "train",
+      "category": "objects",
+      "name": "Train",
+      "shortSummary": "Collective direction, routines and timing.",
+      "keywords": [
+        "train",
+        "station",
+        "tracks"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Everyman"
+          ],
+          "oneLine": "Being carried by a shared direction or schedule.",
+          "summary": "Trains can reflect collective paths such as career tracks or social expectations. Missing a train may show fear of missing an opportunity.",
+          "questions": [
+            "Are you following a path chosen by you or more by others?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "airplane",
+      "category": "objects",
+      "name": "Airplane",
+      "shortSummary": "Big transitions, ambitions and distance.",
+      "keywords": [
+        "airplane",
+        "flight",
+        "airport"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Hero",
+            "Explorer"
+          ],
+          "oneLine": "Major changes or ambitions that lift you into new territory.",
+          "summary": "Airplanes are linked to long distances, big changes and ambitions. Take-off, turbulence or crashing each highlight different feelings about risk and growth.",
+          "questions": [
+            "Is there a big change or goal you are preparing to 'take off' towards?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "elevator",
+      "category": "objects",
+      "name": "Elevator",
+      "shortSummary": "Ups and downs, status and rapid shifts.",
+      "keywords": [
+        "elevator",
+        "lift",
+        "up",
+        "down"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Everyman"
+          ],
+          "oneLine": "Quick movements between levels of mood, status or insight.",
+          "summary": "Elevators represent fast changes, either upward or downward. Being stuck can reflect feeling trapped between states or decisions.",
+          "questions": [
+            "Do you experience quick emotional highs and lows or sudden changes right now?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "forest",
+      "category": "nature",
+      "name": "Forest",
+      "shortSummary": "The unconscious, confusion and potential.",
+      "keywords": [
+        "forest",
+        "woods",
+        "trees"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Shadow",
+            "Self"
+          ],
+          "oneLine": "The wild, unknown parts of yourself and life.",
+          "summary": "Forests symbolise the unconscious and the unknown. Getting lost can show confusion, while exploring can reflect courage to face inner material.",
+          "questions": [
+            "Is there an area of life that feels like 'dark woods' to you at the moment?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mountain",
+      "category": "nature",
+      "name": "Mountain",
+      "shortSummary": "Goals, challenges and perspective.",
+      "keywords": [
+        "mountain",
+        "peak",
+        "climb"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Hero"
+          ],
+          "oneLine": "The challenge or goal you are trying to rise to.",
+          "summary": "Mountains stand for challenges, ambitions and spiritual heights. Climbing may express striving; standing on top may show achievement or new perspective.",
+          "questions": [
+            "What big challenge or goal does this mountain remind you of?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "baby",
+      "category": "people",
+      "name": "Baby",
+      "shortSummary": "New beginnings, vulnerability and potential.",
+      "keywords": [
+        "baby",
+        "infant",
+        "newborn"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Child"
+          ],
+          "oneLine": "A fragile new part of life or self that needs care.",
+          "summary": "Babies in dreams often symbolise new projects, relationships or aspects of yourself. Their condition shows how you relate to this new beginning.",
+          "questions": [
+            "Is there something new in your life that needs more protection or attention?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "child",
+      "category": "people",
+      "name": "Child",
+      "shortSummary": "Innocence, play and old wounds.",
+      "keywords": [
+        "child",
+        "boy",
+        "girl"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Child"
+          ],
+          "oneLine": "Your playful, vulnerable or wounded younger self.",
+          "summary": "Children may represent your own inner child, with its needs, joy and pain. The child's mood mirrors how that part of you feels.",
+          "questions": [
+            "What might this child in the dream be asking for from you?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "old_person",
+      "category": "people",
+      "name": "Old person",
+      "shortSummary": "Wisdom, ageing and limits.",
+      "keywords": [
+        "old person",
+        "elder",
+        "grandparent"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Wise Old Man",
+            "Wise Old Woman"
+          ],
+          "oneLine": "The part of you that knows more than your everyday self.",
+          "summary": "An older person can symbolise wisdom, experience or the reality of ageing and limits. They may appear as guides, critics or reminders of time.",
+          "questions": [
+            "What message or attitude from this elder figure stays with you?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "shadow_figure",
+      "category": "people",
+      "name": "Shadow figure",
+      "shortSummary": "Repressed traits, fear and power.",
+      "keywords": [
+        "shadow",
+        "dark figure",
+        "unknown person"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Shadow"
+          ],
+          "oneLine": "The parts of you that feel foreign, frightening or unacceptable.",
+          "summary": "Shadow figures represent traits or feelings you disown. They may appear threatening, but also carry blocked energy and potential.",
+          "questions": [
+            "Which traits in others do you strongly dislike that might also live in you?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "partner",
+      "category": "people",
+      "name": "Partner",
+      "shortSummary": "Intimacy, projection and current relationship themes.",
+      "keywords": [
+        "partner",
+        "boyfriend",
+        "girlfriend",
+        "spouse"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Anima",
+            "Animus"
+          ],
+          "oneLine": "Your way of relating in close relationships, and what you project onto others.",
+          "summary": "A partner in dreams often carries both your actual partner's qualities and your own inner image of love and connection. Conflicts may mirror inner tensions.",
+          "questions": [
+            "What in this dream partner feels familiar from your waking relationship patterns?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ex_partner",
+      "category": "people",
+      "name": "Ex-partner",
+      "shortSummary": "Past patterns, unresolved feelings and learning.",
+      "keywords": [
+        "ex",
+        "former partner",
+        "breakup"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Anima",
+            "Animus"
+          ],
+          "oneLine": "Old relationship energy that still lives in you.",
+          "summary": "Ex-partners symbolise unfinished emotional business or repeating patterns in love. The dream may highlight what you are still carrying.",
+          "questions": [
+            "What from that past relationship might still influence how you relate today?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "friend",
+      "category": "people",
+      "name": "Friend",
+      "shortSummary": "Support, belonging and social self.",
+      "keywords": [
+        "friend",
+        "buddy",
+        "mate"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Companion"
+          ],
+          "oneLine": "How you connect with others as an equal.",
+          "summary": "Friends in dreams show how you experience support, sameness and difference. Conflicts or distance may reflect current social concerns.",
+          "questions": [
+            "Does this dream friend remind you of the kind of support you want or miss?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "stranger",
+      "category": "people",
+      "name": "Stranger",
+      "shortSummary": "Unknown aspects of self or others.",
+      "keywords": [
+        "stranger",
+        "unknown person"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Shadow"
+          ],
+          "oneLine": "A part of life or self you don't know yet.",
+          "summary": "Strangers can symbolise new qualities, possibilities or fears that have not yet become conscious. How you feel about them is key.",
+          "questions": [
+            "What quality stands out most in the stranger, and where might that show up in you?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "phone",
+      "category": "objects",
+      "name": "Phone",
+      "shortSummary": "Communication, connection and avoidance.",
+      "keywords": [
+        "phone",
+        "call",
+        "message"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Messenger"
+          ],
+          "oneLine": "How you reach out, respond or ignore contact.",
+          "summary": "Phones symbolise the ways you connect with others and with yourself. Broken signals or missed calls may reflect missed messages or disconnection.",
+          "questions": [
+            "Is there a conversation or message you are avoiding or longing for?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "computer",
+      "category": "objects",
+      "name": "Computer",
+      "shortSummary": "Thinking, work and digital identity.",
+      "keywords": [
+        "computer",
+        "laptop",
+        "screen"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Thinker"
+          ],
+          "oneLine": "Your mental processing and online life.",
+          "summary": "Computers point to rational thinking, work and your digital presence. Crashes or viruses may reflect overload or anxiety about control.",
+          "questions": [
+            "Is your mental or digital life feeling overloaded or out of balance?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "money",
+      "category": "objects",
+      "name": "Money",
+      "shortSummary": "Value, security and self-worth.",
+      "keywords": [
+        "money",
+        "cash",
+        "coins"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Provider"
+          ],
+          "oneLine": "How you experience resources, safety and value.",
+          "summary": "Money dreams speak about security, dependence and self-worth. Gaining or losing money can mirror feelings of abundance or fear.",
+          "questions": [
+            "Where do questions of value and security feel active for you now?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "work",
+      "category": "situations",
+      "name": "Work",
+      "shortSummary": "Responsibility, identity and contribution.",
+      "keywords": [
+        "work",
+        "job",
+        "office"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Warrior",
+            "Servant"
+          ],
+          "oneLine": "The way you use your energy and feel useful.",
+          "summary": "Work in dreams reflects how you relate to effort, duty and recognition. Stress at work may mirror inner pressure and expectations.",
+          "questions": [
+            "How satisfied do you feel with how and where you use your energy?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "school",
+      "category": "situations",
+      "name": "School",
+      "shortSummary": "Learning, development and old roles.",
+      "keywords": [
+        "school",
+        "class",
+        "teacher"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Student"
+          ],
+          "oneLine": "Situations where you feel you must learn or prove yourself.",
+          "summary": "School dreams often revisit old patterns of evaluation and belonging. They can also show current learning challenges in adult life.",
+          "questions": [
+            "Do you feel like you are still being graded or compared somewhere in life?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "home_town",
+      "category": "places",
+      "name": "Home town",
+      "shortSummary": "Roots, identity and early patterns.",
+      "keywords": [
+        "home town",
+        "childhood place"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Child"
+          ],
+          "oneLine": "Where you come from psychologically and emotionally.",
+          "summary": "Returning to your home town in dreams points to early experiences and identities. It may highlight both comfort and old limitations.",
+          "questions": [
+            "What old stories about yourself come up when you think of that place?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "blood",
+      "category": "body",
+      "name": "Blood",
+      "shortSummary": "Life force, injury and intensity.",
+      "keywords": [
+        "blood",
+        "bleeding"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Warrior"
+          ],
+          "oneLine": "Vital energy, pain or sacrifice.",
+          "summary": "Blood can represent life energy, emotional pain or sacrifice. The amount and context matter for understanding its message.",
+          "questions": [
+            "Is there an area where you feel drained or deeply emotionally touched?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "injury",
+      "category": "body",
+      "name": "Injury",
+      "shortSummary": "Wounds, vulnerability and healing.",
+      "keywords": [
+        "injury",
+        "wound",
+        "hurt"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Wounded Healer"
+          ],
+          "oneLine": "A place where you are not as strong as you wish.",
+          "summary": "Injuries in dreams point to places of hurt, whether physical, emotional or relational. They can also mark the beginning of a healing process.",
+          "questions": [
+            "What recent or old hurt might this injured part relate to?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "death",
+      "category": "situations",
+      "name": "Death",
+      "shortSummary": "Endings, transformation and fear of loss.",
+      "keywords": [
+        "death",
+        "dead",
+        "dying"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Death",
+            "Transformer"
+          ],
+          "oneLine": "The end of a chapter, not necessarily of life itself.",
+          "summary": "Death dreams often symbolise the end of a phase, role or pattern. They can feel frightening but may signal necessary change.",
+          "questions": [
+            "Is there something in your life that may be ready to end or change form?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "birth",
+      "category": "situations",
+      "name": "Birth",
+      "shortSummary": "New beginnings, creativity and responsibility.",
+      "keywords": [
+        "birth",
+        "labour",
+        "new life"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Mother",
+            "Child"
+          ],
+          "oneLine": "Something new wants to come into your life.",
+          "summary": "Birth in dreams points to new ideas, projects or identities. It can bring both joy and anxiety about responsibility.",
+          "questions": [
+            "What new development in your life might this birth be hinting at?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "light",
+      "category": "nature",
+      "name": "Light",
+      "shortSummary": "Insight, hope and clarity.",
+      "keywords": [
+        "light",
+        "brightness",
+        "lamp"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Self"
+          ],
+          "oneLine": "Awareness breaking through confusion or darkness.",
+          "summary": "Light symbolises understanding, hope and guidance. Sudden light may show an insight; fading light can reflect doubt or fatigue.",
+          "questions": [
+            "Where are you gaining clarity — or wishing for more of it?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "darkness",
+      "category": "nature",
+      "name": "Darkness",
+      "shortSummary": "Unknown, fear and potential.",
+      "keywords": [
+        "darkness",
+        "night",
+        "shadow"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Shadow"
+          ],
+          "oneLine": "What you cannot yet see or understand.",
+          "summary": "Darkness in dreams can feel frightening, but it also holds unrealised possibilities. It invites cautious exploration.",
+          "questions": [
+            "Is there a situation where you feel 'in the dark' right now?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "prison",
+      "category": "places",
+      "name": "Prison",
+      "shortSummary": "Restriction, guilt and stuckness.",
+      "keywords": [
+        "prison",
+        "cell",
+        "bars"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Victim",
+            "Judge"
+          ],
+          "oneLine": "Feeling trapped by circumstances or inner rules.",
+          "summary": "Prisons symbolise feeling confined, punished or unable to move. Sometimes the jailer is an inner critic or rigid belief.",
+          "questions": [
+            "Where do you feel trapped, and what beliefs lock the door?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "crowd",
+      "category": "social",
+      "name": "Crowd",
+      "shortSummary": "Belonging, pressure and anonymity.",
+      "keywords": [
+        "crowd",
+        "people",
+        "group"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Everyman"
+          ],
+          "oneLine": "The pull of the group and fear of losing yourself.",
+          "summary": "Crowds can show social pressure, fear of standing out or longing to belong. They may also reflect overstimulation.",
+          "questions": [
+            "Do you tend to hide in the crowd or feel lost in group settings?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "alone",
+      "category": "social",
+      "name": "Being alone",
+      "shortSummary": "Solitude, independence and loneliness.",
+      "keywords": [
+        "alone",
+        "isolated",
+        "by yourself"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Hermit"
+          ],
+          "oneLine": "Time with yourself — chosen or unwanted.",
+          "summary": "Being alone in dreams can be peaceful or painful. It may highlight a need for rest, or feelings of being disconnected.",
+          "questions": [
+            "Does being alone in the dream feel nourishing or frightening — and why?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lost",
+      "category": "situations",
+      "name": "Being lost",
+      "shortSummary": "Confusion, transition and search for direction.",
+      "keywords": [
+        "lost",
+        "can't find way",
+        "confused"
+      ],
+      "theories": {
+        "jung": {
+          "archetypes": [
+            "Seeker"
+          ],
+          "oneLine": "Not knowing the way, yet still moving.",
+          "summary": "Feeling lost reflects uncertainty about direction, identity or decisions. It can also mark a necessary in-between phase.",
+          "questions": [
+            "In what area of life do you currently feel unsure of the next step?"
+          ]
+        }
+      }
+    }
+  ]
+}
