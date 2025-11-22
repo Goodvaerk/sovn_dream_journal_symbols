@@ -24,6 +24,9 @@
         "subtle-awareness",
         "shadow-instincts"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -54,6 +57,9 @@
         "instinctual-guidance",
         "bonding",
         "security"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -86,6 +92,9 @@
         "wild-energy",
         "personal-power"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -116,6 +125,9 @@
         "groundedness",
         "patience",
         "provision"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -148,6 +160,9 @@
         "resilience",
         "earthy-archetype"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -178,6 +193,9 @@
         "herd-instinct",
         "obedience",
         "protection-seeking"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -210,6 +228,9 @@
         "shadow-impulses",
         "survival-drive"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -240,6 +261,9 @@
         "anxiety",
         "routine",
         "group-dynamics"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -272,6 +296,9 @@
         "vulnerability",
         "emotional-alertness"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -302,6 +329,9 @@
         "intuition",
         "movement-between-realms",
         "calmness"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -334,6 +364,9 @@
         "sacrifice",
         "display-energy"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -364,6 +397,9 @@
         "resilience",
         "patience",
         "burden-carrying"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -396,6 +432,9 @@
         "authority",
         "primal-instincts"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -426,6 +465,9 @@
         "courage",
         "danger",
         "raw-emotions"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -458,6 +500,9 @@
         "predatory-energy",
         "hidden-power"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -488,6 +533,9 @@
         "agility",
         "survival-instincts",
         "pursuit-energy"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -520,6 +568,9 @@
         "instinctual-guidance",
         "wild-nature"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -550,6 +601,9 @@
         "adaptation",
         "subtle-instincts",
         "cleverness"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -582,6 +636,9 @@
         "grounding-power",
         "primal-force"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -612,6 +669,9 @@
         "patience",
         "emotional-depth",
         "stability"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -644,6 +704,9 @@
         "elevated-view",
         "calm-energy"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -674,6 +737,9 @@
         "social-instincts",
         "alertness",
         "pattern-recognition"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -706,6 +772,9 @@
         "primal-force",
         "unpredictability"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -736,6 +805,9 @@
         "protection",
         "stubbornness",
         "primal-instincts"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -768,6 +840,9 @@
         "collective-strength",
         "determination"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -798,6 +873,9 @@
         "agility",
         "nurturing-archetype",
         "alertness"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -830,6 +908,9 @@
         "attachment",
         "stillness"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -860,6 +941,9 @@
         "emotional-vulnerability",
         "peace",
         "soft-power"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -892,6 +976,9 @@
         "mischief",
         "adaptability"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -922,6 +1009,9 @@
         "leadership",
         "emotional-depth",
         "primal-power"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -954,6 +1044,9 @@
         "aggression",
         "primal-fear"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -984,6 +1077,9 @@
         "journey-archetype",
         "adaptability",
         "inner-strength"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1016,6 +1112,9 @@
         "observation",
         "hidden-truths"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1046,6 +1145,9 @@
         "intelligence",
         "death-rebirth",
         "hidden-messages"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1078,6 +1180,9 @@
         "anima-energy",
         "spiritual-evolution"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1108,6 +1213,9 @@
         "colorfulness",
         "attention",
         "voice-archetype"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1140,6 +1248,9 @@
         "cooperation",
         "survival-instincts"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1170,6 +1281,9 @@
         "sensitivity",
         "attraction",
         "elegance"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1202,6 +1316,9 @@
         "intuition",
         "messenger-archetype"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1232,6 +1349,9 @@
         "everyday-life",
         "resilience",
         "innocence"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1264,6 +1384,9 @@
         "identity",
         "transformation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1294,6 +1417,9 @@
         "ancient-wisdom",
         "rebirth",
         "hidden-power"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1326,6 +1452,9 @@
         "transformation",
         "intense-energy"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1356,6 +1485,9 @@
         "instinctual-awareness",
         "transformation",
         "subtle-energy"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1388,6 +1520,9 @@
         "stability",
         "steady-progress"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1418,6 +1553,9 @@
         "survival",
         "aggression",
         "unconscious-depths"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1450,6 +1588,9 @@
         "structure",
         "duty"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1480,6 +1621,9 @@
         "manipulation",
         "feminine-power",
         "complexity"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1512,6 +1656,9 @@
         "service-archetype",
         "collective-energy"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1542,6 +1689,9 @@
         "growth",
         "spiritual-evolution",
         "change"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1574,6 +1724,9 @@
         "transformation",
         "night-symbolism"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1604,6 +1757,9 @@
         "intrusion",
         "impurity",
         "unconscious-annoyance"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1636,6 +1792,9 @@
         "vulnerability",
         "disturbance"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1666,6 +1825,9 @@
         "avoidance",
         "discomfort",
         "hidden-emotions"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1698,6 +1860,9 @@
         "intuition",
         "social-bonding"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1728,6 +1893,9 @@
         "aggression",
         "fear",
         "predatory-force"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1760,6 +1928,9 @@
         "vastness",
         "unconscious-depths"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1790,6 +1961,9 @@
         "complexity",
         "hidden-self",
         "creativity"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1822,6 +1996,9 @@
         "flow",
         "unconscious-reaction"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1852,6 +2029,9 @@
         "intuition",
         "comfort-seeking",
         "balance"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1884,6 +2064,9 @@
         "sensitivity",
         "boundary-setting"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1914,6 +2097,9 @@
         "shadow-instincts",
         "strength",
         "emotional-depth"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -1946,6 +2132,9 @@
         "ambition",
         "unconscious-force"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -1976,6 +2165,9 @@
         "spiritual-evolution",
         "immortality",
         "healing"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2008,6 +2200,9 @@
         "hope",
         "transcendence"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2038,6 +2233,9 @@
         "dual-nature",
         "courage",
         "higher-purpose"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2070,6 +2268,9 @@
         "protection",
         "unconscious-blocks"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2100,6 +2301,9 @@
         "seduction",
         "longing",
         "mystery"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2132,6 +2336,9 @@
         "attachment",
         "compassion"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2162,6 +2369,9 @@
         "discipline",
         "responsibility",
         "stability"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2194,6 +2404,9 @@
         "emotional-need",
         "inner-child"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2224,6 +2437,9 @@
         "conflict",
         "family-dynamics",
         "bonding"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2256,6 +2472,9 @@
         "generational-connection",
         "stability"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2286,6 +2505,9 @@
         "power-archetype",
         "structure",
         "sovereignty"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2318,6 +2540,9 @@
         "guidance",
         "dignity"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2348,6 +2573,9 @@
         "action-archetype",
         "protection",
         "determination"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2380,6 +2608,9 @@
         "clarity",
         "truth-seeking"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2410,6 +2641,9 @@
         "transformation",
         "humor",
         "shadow-archetype"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2442,6 +2676,9 @@
         "pleasure",
         "vulnerability"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2472,6 +2709,9 @@
         "conflict",
         "integration",
         "denied-self"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2504,6 +2744,9 @@
         "compassion",
         "care"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2534,6 +2777,9 @@
         "protection",
         "responsibility",
         "stability"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2566,6 +2812,9 @@
         "determination",
         "self-development"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2596,6 +2845,9 @@
         "hidden-message",
         "unfamiliarity",
         "boundary-awareness"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2628,6 +2880,9 @@
         "intuition",
         "conflict"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2658,6 +2913,9 @@
         "hidden-aspects",
         "feminine-shadow",
         "allure"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2690,6 +2948,9 @@
         "emotional-signal",
         "sensitivity"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2720,6 +2981,9 @@
         "conformity",
         "chaos",
         "group-unconscious"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2752,6 +3016,9 @@
         "trust",
         "transformation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2782,6 +3049,9 @@
         "emotional-healing",
         "service",
         "protection"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2814,6 +3084,9 @@
         "development",
         "influence"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2844,6 +3117,9 @@
         "justice",
         "discipline",
         "conflict"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2876,6 +3152,9 @@
         "aggression",
         "protection-archetype"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2906,6 +3185,9 @@
         "guidance",
         "trust",
         "transformation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -2938,6 +3220,9 @@
         "structure",
         "power-dynamics"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -2968,6 +3253,9 @@
         "support",
         "competition",
         "shared-goals"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3000,6 +3288,9 @@
         "loyalty",
         "shared-experience"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3030,6 +3321,9 @@
         "trust",
         "vulnerability",
         "relationship-dynamics"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3062,6 +3356,9 @@
         "shadow-relationship",
         "closure"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3092,6 +3389,9 @@
         "curiosity",
         "unfamiliarity",
         "casual-interaction"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3124,6 +3424,9 @@
         "familiarity",
         "social-dynamics"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3154,6 +3457,9 @@
         "hope",
         "spiritual-support",
         "transcendence"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3186,6 +3492,9 @@
         "unconscious-force",
         "inner-struggle"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3216,6 +3525,9 @@
         "fear",
         "unfinished-business",
         "subconscious-message"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3248,6 +3560,9 @@
         "protection",
         "inner-direction"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3278,6 +3593,9 @@
         "emotional-detachment",
         "shadow-aspect",
         "confusion"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3310,6 +3628,9 @@
         "stress",
         "mental-focus"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3340,6 +3661,9 @@
         "emotions",
         "social-mask",
         "authenticity"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3372,6 +3696,9 @@
         "clarity",
         "understanding"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3402,6 +3729,9 @@
         "suppression",
         "nourishment",
         "boundaries"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3434,6 +3764,9 @@
         "support",
         "responsibility"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3464,6 +3797,9 @@
         "life-path",
         "progress",
         "independence"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3496,6 +3832,9 @@
         "connection",
         "emotional-truth"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3526,6 +3865,9 @@
         "emotional-processing",
         "sensitivity",
         "tension"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3558,6 +3900,9 @@
         "vulnerability",
         "resilience"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3588,6 +3933,9 @@
         "identity",
         "vulnerability",
         "emotional-defense"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3620,6 +3968,9 @@
         "disruption",
         "recovery"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3650,6 +4001,9 @@
         "urgency",
         "life-force",
         "exposure"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3682,6 +4036,9 @@
         "stagnation",
         "vulnerability"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3712,6 +4069,9 @@
         "inhibition",
         "helplessness",
         "immobilization"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3744,6 +4104,9 @@
         "emotional-weight",
         "withdrawal"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3774,6 +4137,9 @@
         "responsibility",
         "nurturing-energy",
         "new-beginnings"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3806,6 +4172,9 @@
         "change",
         "mortality"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3836,6 +4205,9 @@
         "unconscious-shift",
         "evolution",
         "integration"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3868,6 +4240,9 @@
         "self-care",
         "integration"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3898,6 +4273,9 @@
         "anxiety-release",
         "rhythm",
         "grounding"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3930,6 +4308,9 @@
         "rhythm",
         "inner-truth"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -3960,6 +4341,9 @@
         "shadow-aspects",
         "instinct",
         "protection"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -3992,6 +4376,9 @@
         "shadow-energy",
         "assertion"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4022,6 +4409,9 @@
         "reflection",
         "healing",
         "longing"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -4054,6 +4444,9 @@
         "openness",
         "positive-energy"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4084,6 +4477,9 @@
         "intimacy",
         "emotional-growth",
         "bonding"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -4116,6 +4512,9 @@
         "exposure",
         "inner-criticism"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4146,6 +4545,9 @@
         "accountability",
         "reflection",
         "inner-conflict"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -4178,6 +4580,9 @@
         "alertness",
         "shift"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4208,6 +4613,9 @@
         "intuition",
         "shadow-reaction",
         "repulsion"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -4240,6 +4648,9 @@
         "bonding",
         "emotional-security"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4270,6 +4681,9 @@
         "insecurity",
         "inner-conflict",
         "anticipation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -4302,6 +4716,9 @@
         "indecision",
         "overwhelm"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4332,6 +4749,9 @@
         "vulnerability",
         "emptiness",
         "introspection"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -4364,6 +4784,9 @@
         "stagnation",
         "withdrawal"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4394,6 +4817,9 @@
         "resilience",
         "motivation",
         "inner-guidance"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -4426,6 +4852,9 @@
         "attachment",
         "emotional-intensity"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4456,6 +4885,9 @@
         "desire-for-change",
         "resistance",
         "irritation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -4488,6 +4920,9 @@
         "discomfort",
         "insecurity"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4518,6 +4953,9 @@
         "grounding",
         "clarity",
         "inner-stillness"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -4550,6 +4988,9 @@
         "urgency",
         "inability-to-cope"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4581,6 +5022,9 @@
         "breakthrough",
         "unconscious-movement"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4611,6 +5055,9 @@
         "new-cycle",
         "release",
         "spiritual-shift"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -4644,6 +5091,9 @@
         "emotional-struggle",
         "unresolved-energy"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4674,6 +5124,9 @@
         "projection",
         "integration-process",
         "conflict"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -4706,6 +5159,9 @@
         "mental-light",
         "revelation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4736,6 +5192,9 @@
         "transformation",
         "insight",
         "expansion"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -4768,6 +5227,9 @@
         "loss-of-control",
         "emotional-collapse"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4798,6 +5260,9 @@
         "agency",
         "breakthrough",
         "courage"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -4830,6 +5295,9 @@
         "memory",
         "sensitivity"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4860,6 +5328,9 @@
         "suppression",
         "overwhelm",
         "density"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -4892,6 +5363,9 @@
         "revelation",
         "control"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4922,6 +5396,9 @@
         "possibility",
         "choice",
         "threshold"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -4954,6 +5431,9 @@
         "cutting-away",
         "decision"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -4984,6 +5464,9 @@
         "protection",
         "courage",
         "decisive-action"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5016,6 +5499,9 @@
         "dependence",
         "security"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5046,6 +5532,9 @@
         "control",
         "shaping",
         "power"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5078,6 +5567,9 @@
         "ambition",
         "ascent"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5108,6 +5600,9 @@
         "shadow-awareness",
         "perception",
         "authenticity"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5140,6 +5635,9 @@
         "outreach",
         "signal"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5170,6 +5668,9 @@
         "understanding",
         "orientation",
         "life-path"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5202,6 +5703,9 @@
         "mystery",
         "boundaries"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5232,6 +5736,9 @@
         "preparation",
         "hidden-aspects",
         "carrying"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5264,6 +5771,9 @@
         "fulfillment",
         "vulnerability"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5294,6 +5804,9 @@
         "message",
         "restraint",
         "release"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5326,6 +5839,9 @@
         "inner-narrative",
         "discovery"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5356,6 +5872,9 @@
         "independence",
         "responsibility",
         "self-worth"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5388,6 +5907,9 @@
         "order",
         "shadow-material"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5418,6 +5940,9 @@
         "personal-space",
         "containment",
         "reflection"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5450,6 +5975,9 @@
         "preservation",
         "guarded-emotions"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5480,6 +6008,9 @@
         "inheritance",
         "secrets",
         "discovery"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5512,6 +6043,9 @@
         "dreams",
         "emotional-safety"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5542,6 +6076,9 @@
         "rest",
         "reflection",
         "presence"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5574,6 +6111,9 @@
         "gathering",
         "structure"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5604,6 +6144,9 @@
         "clarity",
         "longing",
         "outside-world"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5636,6 +6179,9 @@
         "hope",
         "consciousness"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5666,6 +6212,9 @@
         "cycles",
         "pressure",
         "awareness"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5698,6 +6247,9 @@
         "passivity",
         "external-input"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5728,6 +6280,9 @@
         "connection",
         "information",
         "precision"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5760,6 +6315,9 @@
         "boundaries",
         "relief"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5790,6 +6348,9 @@
         "grounding",
         "readiness",
         "self-expression"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5822,6 +6383,9 @@
         "intention",
         "inner-light"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5852,6 +6416,9 @@
         "duality",
         "suffering",
         "redemption"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5884,6 +6451,9 @@
         "bond",
         "eternity"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5914,6 +6484,9 @@
         "protection",
         "shadow-aspect",
         "performance"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -5946,6 +6519,9 @@
         "leadership",
         "power"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -5976,6 +6552,9 @@
         "dependence",
         "burden",
         "limitation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6008,6 +6587,9 @@
         "movement",
         "change"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6038,6 +6620,9 @@
         "renewal",
         "expression",
         "tenderness"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6070,6 +6655,9 @@
         "wisdom",
         "connection"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6100,6 +6688,9 @@
         "memory",
         "expression",
         "hidden-information"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6132,6 +6723,9 @@
         "perspective",
         "determination"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6162,6 +6756,9 @@
         "personal-growth",
         "transition",
         "vantage"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6194,6 +6791,9 @@
         "reflection",
         "calmness"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6224,6 +6824,9 @@
         "fear",
         "boundary",
         "sudden-change"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6256,6 +6859,9 @@
         "protection",
         "hidden-truths"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6286,6 +6892,9 @@
         "transformation",
         "wandering",
         "unconscious-depths"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6318,6 +6927,9 @@
         "spiritual-search",
         "resilience"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6348,6 +6960,9 @@
         "separation",
         "self-reliance",
         "emotional-distance"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6380,6 +6995,9 @@
         "change",
         "threshold"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6410,6 +7028,9 @@
         "purpose",
         "transition",
         "choices"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6442,6 +7063,9 @@
         "overwhelm",
         "spiritual-expanse"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6472,6 +7096,9 @@
         "change",
         "direction",
         "letting-go"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6504,6 +7131,9 @@
         "clarity",
         "containment"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6534,6 +7164,9 @@
         "growth",
         "purification",
         "change"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6566,6 +7199,9 @@
         "intensity",
         "disruption"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6596,6 +7232,9 @@
         "crisis",
         "release",
         "unconscious-power"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6628,6 +7267,9 @@
         "transition",
         "flow"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6658,6 +7300,9 @@
         "rigidity",
         "preservation",
         "coldness"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6690,6 +7335,9 @@
         "transformation",
         "simplicity"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6720,6 +7368,9 @@
         "emotional-murkiness",
         "decay",
         "stuckness"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6752,6 +7403,9 @@
         "strength",
         "renewal"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6782,6 +7436,9 @@
         "mystery",
         "reflection",
         "unconscious"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6814,6 +7471,9 @@
         "clarity",
         "spiritual-direction"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6844,6 +7504,9 @@
         "intuition",
         "influence",
         "transition"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6876,6 +7539,9 @@
         "fear",
         "disruption"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6906,6 +7572,9 @@
         "hidden-truths",
         "mystery",
         "disorientation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -6938,6 +7607,9 @@
         "transformation",
         "illumination"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -6968,6 +7640,9 @@
         "transition",
         "spiritual-promise",
         "resolution"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7000,6 +7675,9 @@
         "struggle",
         "repression"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7030,6 +7708,9 @@
         "cycles",
         "threshold",
         "unconscious-shift"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7062,6 +7743,9 @@
         "wisdom",
         "connection"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7092,6 +7776,9 @@
         "renewal",
         "expression",
         "tenderness"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7124,6 +7811,9 @@
         "grounding",
         "adaptation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7154,6 +7844,9 @@
         "mystery",
         "hidden-aspects",
         "natural-growth"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7186,6 +7879,9 @@
         "creation",
         "hope"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7216,6 +7912,9 @@
         "flexibility",
         "attachment",
         "adaptation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7248,6 +7947,9 @@
         "seasonality",
         "impermanence"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7278,6 +7980,9 @@
         "direction",
         "discovery",
         "transition"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7310,6 +8015,9 @@
         "peace",
         "renewal"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7340,6 +8048,9 @@
         "past-cycle",
         "shadow-growth",
         "resilience"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7372,6 +8083,9 @@
         "inner-life",
         "personal-space"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7402,6 +8116,9 @@
         "function",
         "introspection",
         "inner-space"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7434,6 +8151,9 @@
         "privacy",
         "emotional-safety"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7464,6 +8184,9 @@
         "preparation",
         "family-energy",
         "sustenance"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7496,6 +8219,9 @@
         "privacy",
         "renewal"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7526,6 +8252,9 @@
         "reflection",
         "unconscious-storage",
         "forgotten-self"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7558,6 +8287,9 @@
         "hidden-emotions",
         "roots"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7588,6 +8320,9 @@
         "emotional-nourishment",
         "peace",
         "renewal"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7620,6 +8355,9 @@
         "discipline",
         "social-dynamics"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7650,6 +8388,9 @@
         "crisis",
         "care",
         "transformation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7682,6 +8423,9 @@
         "hierarchy",
         "social-role"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7712,6 +8456,9 @@
         "identity",
         "abundance",
         "decision-making"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7744,6 +8491,9 @@
         "risk",
         "public-life"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7774,6 +8524,9 @@
         "hospitality",
         "comfort",
         "interaction"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7806,6 +8559,9 @@
         "renewal",
         "openness"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7836,6 +8592,9 @@
         "anticipation",
         "journey",
         "decision-point"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7868,6 +8627,9 @@
         "movement",
         "change"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7898,6 +8660,9 @@
         "anticipation",
         "process",
         "inner-movement"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7930,6 +8695,9 @@
         "transition",
         "possibility"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -7960,6 +8728,9 @@
         "change",
         "effort",
         "direction"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -7992,6 +8763,9 @@
         "transformation",
         "passage"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8022,6 +8796,9 @@
         "power-dynamics",
         "direction",
         "movement"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8054,6 +8831,9 @@
         "anticipation",
         "life-journey"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8084,6 +8864,9 @@
         "morality",
         "reflection",
         "sanctuary"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8116,6 +8899,9 @@
         "closure",
         "mortality"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8146,6 +8932,9 @@
         "vigilance",
         "ego",
         "higher-view"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8178,6 +8967,9 @@
         "structure",
         "inner-fortress"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8208,6 +9000,9 @@
         "transformation",
         "loss",
         "rebuilding"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8240,6 +9035,9 @@
         "purity",
         "inner-truth"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8270,6 +9068,9 @@
         "complexity",
         "shadow-work",
         "transformation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8302,6 +9103,9 @@
         "containment",
         "self-architecture"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8332,6 +9136,9 @@
         "aspiration",
         "power",
         "visibility"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8364,6 +9171,9 @@
         "threshold",
         "perspective"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8394,6 +9204,9 @@
         "accumulation",
         "memory",
         "containment"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8426,6 +9239,9 @@
         "efficiency",
         "transformation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8456,6 +9272,9 @@
         "identity",
         "exposure",
         "intensity"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8488,6 +9307,9 @@
         "exploration",
         "inner-resources"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8518,6 +9340,9 @@
         "anonymity",
         "exploration",
         "temporary-state"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8550,6 +9375,9 @@
         "social-structure",
         "instruction"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8580,6 +9408,9 @@
         "work",
         "preservation",
         "grounding"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8612,6 +9443,9 @@
         "resistance",
         "emotional-block"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8642,6 +9476,9 @@
         "separation",
         "personal-space",
         "restriction"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8674,6 +9511,9 @@
         "access",
         "change"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8704,6 +9544,9 @@
         "fear",
         "boundary",
         "emotional-blockage"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8736,6 +9579,9 @@
         "boundaries",
         "inner-fortification"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8766,6 +9612,9 @@
         "introspection",
         "enclosure",
         "sacred-space"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8798,6 +9647,9 @@
         "isolation",
         "hidden-self"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8828,6 +9680,9 @@
         "movement",
         "opportunity",
         "change"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8860,6 +9715,9 @@
         "transformation",
         "transition"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8890,6 +9748,9 @@
         "transformation",
         "symbolic-entry",
         "change"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8922,6 +9783,9 @@
         "direction",
         "change"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -8952,6 +9816,9 @@
         "transition",
         "upward-movement",
         "adaptation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -8984,6 +9851,9 @@
         "perspective",
         "decision"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9014,6 +9884,9 @@
         "momentum",
         "direction",
         "change"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9046,6 +9919,9 @@
         "connection",
         "inner-shift"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9076,6 +9952,9 @@
         "transformation",
         "depth",
         "unconscious-material"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9108,6 +9987,9 @@
         "identity",
         "intensity"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9138,6 +10020,9 @@
         "authority",
         "ego",
         "contemplation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9170,6 +10055,9 @@
         "shadow-self",
         "emotional-storage"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9200,6 +10088,9 @@
         "connection",
         "gathering",
         "spiritual-space"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9232,6 +10123,9 @@
         "danger",
         "projection"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9262,6 +10156,9 @@
         "transformation-pressure",
         "threat",
         "anxiety"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9294,6 +10191,9 @@
         "danger",
         "conflict"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9324,6 +10224,9 @@
         "panic",
         "predatory-energy",
         "vulnerability"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9356,6 +10259,9 @@
         "intrusion",
         "hidden-threats"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9386,6 +10292,9 @@
         "loss-of-control",
         "shadow-energy",
         "contamination"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9418,6 +10327,9 @@
         "intrusion",
         "unfinished-business"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9448,6 +10360,9 @@
         "inner-conflict",
         "danger",
         "unconscious-force"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9480,6 +10395,9 @@
         "anger-energy",
         "urgency"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9510,6 +10428,9 @@
         "cleansing-force",
         "fear",
         "intensity"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9542,6 +10463,9 @@
         "transformation",
         "shock"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9572,6 +10496,9 @@
         "overwhelm",
         "uncontrollable-force",
         "crisis"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9604,6 +10531,9 @@
         "instability",
         "surrender"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9634,6 +10564,9 @@
         "unconscious-exploration",
         "danger",
         "anxiety"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9666,6 +10599,9 @@
         "pursuit",
         "chaos"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9696,6 +10632,9 @@
         "instability",
         "fear",
         "fragility"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9728,6 +10667,9 @@
         "survival-instinct",
         "pressure"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9758,6 +10700,9 @@
         "loss-of-control",
         "anxiety",
         "limitation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9790,6 +10735,9 @@
         "danger",
         "protection-instinct"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9820,6 +10768,9 @@
         "disruption",
         "trauma",
         "danger"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9852,6 +10803,9 @@
         "vulnerability",
         "shock"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9882,6 +10836,9 @@
         "direction-loss",
         "panic",
         "vulnerability"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9914,6 +10871,9 @@
         "trauma",
         "confrontation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -9944,6 +10904,9 @@
         "crisis",
         "unconscious-depths",
         "loss-of-control"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -9976,6 +10939,9 @@
         "vulnerability",
         "unconscious-depths"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10006,6 +10972,9 @@
         "unconscious-threat",
         "anxiety",
         "confrontation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -10038,6 +11007,9 @@
         "panic",
         "inhibition"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10068,6 +11040,9 @@
         "self-image",
         "anxiety",
         "transition"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -10100,6 +11075,9 @@
         "insecurity",
         "self-awareness"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10131,6 +11109,9 @@
         "panic",
         "loss-of-breath"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10161,6 +11142,9 @@
         "bonding",
         "emotional-connection",
         "partnership"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -10194,6 +11178,9 @@
         "excitement",
         "emotional-stirring"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10225,6 +11212,9 @@
         "vulnerability",
         "emotional-expression",
         "longing"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -10258,6 +11248,9 @@
         "separation",
         "healing"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10288,6 +11281,9 @@
         "emotional-pain",
         "conflict",
         "vulnerability"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -10320,6 +11316,9 @@
         "future-planning",
         "emotional-decision"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10351,6 +11350,9 @@
         "responsibility",
         "emotional-union"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10381,6 +11383,9 @@
         "instinct",
         "emotional-charge",
         "longing"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -10414,6 +11419,9 @@
         "conditioning",
         "family-dynamics"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10445,6 +11453,9 @@
         "conflict",
         "cooperation",
         "family-dynamics"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -10478,6 +11489,9 @@
         "confrontation",
         "healing-needed"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10509,6 +11523,9 @@
         "comfort",
         "emotional-roots"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10539,6 +11556,9 @@
         "family-roles",
         "adjustment",
         "social-dynamics"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -10572,6 +11592,9 @@
         "nurturing",
         "emotional-transformation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10602,6 +11625,9 @@
         "acceptance",
         "emotional-shift",
         "connection"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -10636,6 +11662,9 @@
         "shared-experience",
         "community"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10667,6 +11696,9 @@
         "uncertainty",
         "observation",
         "distance"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -10700,6 +11732,9 @@
         "group-identity",
         "collaboration"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10731,6 +11766,9 @@
         "direction",
         "visibility",
         "self-confidence"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -10764,6 +11802,9 @@
         "group-dynamics",
         "receptivity"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10796,6 +11837,9 @@
         "performance",
         "belonging"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10826,6 +11870,9 @@
         "identity",
         "closure",
         "renewal"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -10859,6 +11906,9 @@
         "emotional-charge",
         "confrontation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10889,6 +11939,9 @@
         "emotional-pain",
         "boundary",
         "loss"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -10922,6 +11975,9 @@
         "trauma",
         "emotional-void"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10954,6 +12010,9 @@
         "anger",
         "vulnerability"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -10984,6 +12043,9 @@
         "rivalry",
         "shadow-aspect",
         "tension"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -11018,6 +12080,9 @@
         "insecurity",
         "performance"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -11049,6 +12114,9 @@
         "insecurity",
         "vulnerability",
         "group-dynamics"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -11082,6 +12150,9 @@
         "insecurity",
         "control-dynamics"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -11112,6 +12183,9 @@
         "hope",
         "spiritual-support",
         "transcendence"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -11145,6 +12219,9 @@
         "clarity",
         "intervention"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -11176,6 +12253,9 @@
         "higher-consciousness",
         "protection",
         "inner-direction"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -11209,6 +12289,9 @@
         "heritage",
         "connection"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -11240,6 +12323,9 @@
         "wisdom",
         "empowerment",
         "spiritual-energy"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -11273,6 +12359,9 @@
         "higher-law",
         "spiritual-force"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -11305,6 +12394,9 @@
         "hope",
         "spiritual-birth"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -11335,6 +12427,9 @@
         "healing",
         "illumination",
         "transcendence"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -11367,6 +12462,9 @@
         "spiritual-role",
         "guidance"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -11397,6 +12495,9 @@
         "higher-awareness",
         "support",
         "vigilance"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -11430,19 +12531,10 @@
         "fear",
         "unconscious-energy"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Skyggen",
-            "Animus"
-          ],
-          "oneLine": "Et symbol på rå styrke, instinkt og indre prøvelser.",
-          "summary": "Drager viser sig, når du skal konfrontere primal frygt eller udnytte indre kraft.",
-          "questions": [
-            "Hvilken indre udfordring eller uudtømt energi kalder på din opmærksomhed?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "phoenix_entity",
@@ -11462,19 +12554,10 @@
         "healing",
         "spiritual-evolution"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Skyggen",
-            "Selvet"
-          ],
-          "oneLine": "Et symbol på at komme stærkere ud efter afslutninger eller kriser.",
-          "summary": "Fønikser viser sig, når gamle mønstre må slutte for at give plads til ny vækst.",
-          "questions": [
-            "Hvad slutter i dit liv for at give plads til en ny begyndelse?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "unicorn_entity",
@@ -11494,19 +12577,10 @@
         "hope",
         "transcendence"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Anima",
-            "Selvet"
-          ],
-          "oneLine": "Et symbol på spirituel opvågning, kreativitet og følelsesmæssig klarhed.",
-          "summary": "Enhjørninger viser sig, når du kaldes til at udtrykke unikke eller transcendente kvaliteter.",
-          "questions": [
-            "Hvilken del af dit indre søger udtryk eller anerkendelse?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "griffin_entity",
@@ -11526,19 +12600,10 @@
         "courage",
         "higher-purpose"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Skyggen",
-            "Selvet"
-          ],
-          "oneLine": "Et symbol på balance, årvågenhed og mod i mødet med dualiteter.",
-          "summary": "Griffoner viser sig, når beskyttende styrke og klarhed er nødvendig.",
-          "questions": [
-            "Hvor i dit liv har du brug for mod og integreret perspektiv?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "mermaid_entity",
@@ -11558,19 +12623,10 @@
         "seduction",
         "mystery"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Anima",
-            "Skyggen"
-          ],
-          "oneLine": "Et symbol på følelsesmæssig dybde, fristelse og skjulte ønsker.",
-          "summary": "Havfruer viser sig, når det ubevidste eller følelsesmæssige tidevand kræver opmærksomhed.",
-          "questions": [
-            "Hvilke følelser eller ønsker træder frem, der kræver opmærksomhed eller integration?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "centaur",
@@ -11590,19 +12646,10 @@
         "wisdom",
         "integration"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Skyggen",
-            "Animus"
-          ],
-          "oneLine": "Et symbol på kombinationen af rå kraft og rationel kontrol.",
-          "summary": "Centaurer viser sig, når instinkt og vilje skal integreres.",
-          "questions": [
-            "Hvilken del af dig kræver balance mellem instinkt og bevidst handling?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "minotaur",
@@ -11622,19 +12669,10 @@
         "inner-labyrinth",
         "conflict"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Skyggen",
-            "Animus"
-          ],
-          "oneLine": "Et symbol på udfordring, instinkt og ubevidste mønstre.",
-          "summary": "Minotaurer viser sig, når indre frygt eller kaos skal konfronteres.",
-          "questions": [
-            "Hvilken ubevidst kraft eller frygt skal du navigere i?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "fairy",
@@ -11654,19 +12692,10 @@
         "innocence",
         "imagination"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Anima",
-            "Selvet"
-          ],
-          "oneLine": "Et symbol på kreativ inspiration og følelsesmæssig subtile påvirkninger.",
-          "summary": "Feer viser sig, når intuition eller inspiration skal integreres.",
-          "questions": [
-            "Hvilken inspiration eller subtil energi guider dig lige nu?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "shadow_creature",
@@ -11686,18 +12715,10 @@
         "darkness",
         "inner-conflict"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Skyggen"
-          ],
-          "oneLine": "Et symbol på skjulte aspekter, angst og indre konflikter.",
-          "summary": "Skyggevæsener viser sig, når uerkendte eller undertrykte sider kræver opmærksomhed.",
-          "questions": [
-            "Hvilken skjult side af dig kræver opmærksomhed eller integration?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "death_figure",
@@ -11717,19 +12738,10 @@
         "surrender",
         "rebirth-potential"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Skyggen",
-            "Selvet"
-          ],
-          "oneLine": "Et symbol på nødvendige afslutninger, frigørelse og psykologisk forandring.",
-          "summary": "Dødsfigurer viser sig, når noget i livet må slutte for at give plads til fornyelse.",
-          "questions": [
-            "Hvad er ved at afslutte i dit liv, så noget nyt kan begynde?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "cross_symbol",
@@ -11749,18 +12761,10 @@
         "spirituality",
         "transformation"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Selvet"
-          ],
-          "oneLine": "Et symbol på vejkryds, mening og indre alignment.",
-          "summary": "Korssymboler viser sig, når du står over for vigtige valg eller indre forandringer.",
-          "questions": [
-            "Hvilket indre vejkryds står du overfor lige nu?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "lotus_symbol",
@@ -11780,19 +12784,10 @@
         "awakening",
         "calmness"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Selvet",
-            "Anima"
-          ],
-          "oneLine": "Et symbol på at rejse sig over svære erfaringer mod større indsigt.",
-          "summary": "Lotusser viser sig, når healing eller indre opvågning er i gang.",
-          "questions": [
-            "Hvilken del af dig er på vej mod klarhed eller fred?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "mandala_symbol",
@@ -11812,18 +12807,10 @@
         "balance",
         "center"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Selvet"
-          ],
-          "oneLine": "Et symbol på det integrerede selv og psykens centrum.",
-          "summary": "Mandalaer viser sig, når dit indre søger balance eller dybere forståelse.",
-          "questions": [
-            "Hvor bliver du kaldet mod større indre harmoni?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "yin_yang_symbol",
@@ -11843,18 +12830,10 @@
         "unity",
         "flow"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Selvet"
-          ],
-          "oneLine": "Et symbol på harmoni mellem lys og skygge, maskulint og feminint.",
-          "summary": "Yin-yang symboler viser sig, når livet kræver balance eller accept af paradokser.",
-          "questions": [
-            "Hvilke modsatrettede kræfter i dit liv har brug for integration?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "tree_of_life",
@@ -11874,19 +12853,10 @@
         "creation",
         "life-force"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Den Store Moder",
-            "Selvet"
-          ],
-          "oneLine": "Et symbol på rødder, vitalitet og spirituel sammenhæng.",
-          "summary": "Livets Træ viser sig, når du søger dybere formål, stabilitet eller forbindelse.",
-          "questions": [
-            "Hvilken del af dit liv søger dybere rødder eller større vækst?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "serpent_symbol",
@@ -11906,19 +12876,10 @@
         "instinct",
         "mystery"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Skyggen",
-            "Anima"
-          ],
-          "oneLine": "Et symbol på fristelse, fornyelse og dybe ubevidste kræfter.",
-          "summary": "Slangesymboler viser sig, når instinkt eller forandring presser sig på.",
-          "questions": [
-            "Hvilken stærk indre kraft er ved at vågne i dig?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "halo_symbol",
@@ -11938,18 +12899,10 @@
         "virtue",
         "illumination"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Selvet"
-          ],
-          "oneLine": "Et symbol på spirituel klarhed og indre sandhed.",
-          "summary": "Glorier viser sig, når moral, indsigt eller indre retning bliver tydelig.",
-          "questions": [
-            "Hvilken højere indsigt kalder på dig nu?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "moon_symbol",
@@ -11969,18 +12922,10 @@
         "unconscious",
         "change"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Anima"
-          ],
-          "oneLine": "Et symbol på det ubevidste, stemninger og indre bevægelser.",
-          "summary": "Måner viser sig, når intuition eller følelser guider dig.",
-          "questions": [
-            "Hvilken følelsesmæssig cyklus eller intuition påvirker dig lige nu?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "sun_symbol",
@@ -12000,19 +12945,10 @@
         "strength",
         "illumination"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Animus",
-            "Selvet"
-          ],
-          "oneLine": "Et symbol på styrke, klarhed og livsenergi.",
-          "summary": "Solens symbol viser sig, når dit selvbillede eller din retning bliver stærkere.",
-          "questions": [
-            "Hvor vokser dit indre lys eller din selvtillid?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "triangle_symbol",
@@ -12031,6 +12967,10 @@
         "stability",
         "higher-awareness",
         "symbolism"
+      ],
+      "theories_active": [
+        "jung",
+        "spiritual"
       ],
       "theories": {
         "jung": {
@@ -12064,18 +13004,10 @@
         "ritual-focus",
         "sacred-space"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Selvet"
-          ],
-          "oneLine": "Et symbol på fokus, alignment og spirituel forpligtelse.",
-          "summary": "Altre viser sig, når du søger formål eller står i en forandringsfase.",
-          "questions": [
-            "Hvilken intention eller indre hengivelse kalder på dig?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "temple_room",
@@ -12095,19 +13027,10 @@
         "inner-center",
         "devotion"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Selvet",
-            "Den Vise Gamle Mand"
-          ],
-          "oneLine": "Et symbol på visdom, stilhed og indre hellighed.",
-          "summary": "Tempelrum viser sig, når du søger klarhed eller dybere forståelse.",
-          "questions": [
-            "Hvilket indre hellige rum skal du vende tilbage til?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "portal",
@@ -12127,19 +13050,10 @@
         "mystery",
         "spiritual-gateway"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Selvet",
-            "Skyggen"
-          ],
-          "oneLine": "Et symbol på at krydse ind i dybere psykologiske eller spirituelle lag.",
-          "summary": "Portaler viser sig, når en større forandring eller indvielse sker.",
-          "questions": [
-            "Hvilken ny fase eller indre verden står du på tærsklen til?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "sacred_fire",
@@ -12159,19 +13073,10 @@
         "renewal",
         "illumination"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Selvet",
-            "Helten"
-          ],
-          "oneLine": "Et symbol på kraft, transformation og at brænde det gamle bort.",
-          "summary": "Hellig ild viser sig, når intens forandring eller følelsesmæssig frigørelse er i gang.",
-          "questions": [
-            "Hvad har brug for at blive fornyet eller sluppet?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "incense",
@@ -12191,19 +13096,10 @@
         "purification",
         "subtle-energy"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Anima",
-            "Den Vise Gamle Kvinde"
-          ],
-          "oneLine": "Et symbol på blid guidning og renselse.",
-          "summary": "Røgelse viser sig, når intuition eller følelsesmæssig klarhed er på vej frem.",
-          "questions": [
-            "Hvilken følelse eller tanke trænger til blid renselse?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "holy_book",
@@ -12223,19 +13119,10 @@
         "memory",
         "sacred-teaching"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Den Vise Gamle Mand",
-            "Selvet"
-          ],
-          "oneLine": "Et symbol på vejledning, mening og tidløs viden.",
-          "summary": "Hellige bøger viser sig, når du søger dybere sandhed eller etisk klarhed.",
-          "questions": [
-            "Hvilken visdom er du klar til at forstå dybere?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "ritual_circle",
@@ -12255,19 +13142,10 @@
         "connection",
         "spiritual-focus"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Selvet",
-            "Den Store Moder"
-          ],
-          "oneLine": "Et symbol på helhed, grænser og grounding.",
-          "summary": "Rituelle cirkler viser sig, når du har brug for beskyttelse eller indre stabilitet.",
-          "questions": [
-            "Hvor i dit liv har du brug for stærkere indre grænser?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "sacred_well",
@@ -12287,19 +13165,10 @@
         "emotional-source",
         "ancient-wisdom"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Den Store Moder",
-            "Anima"
-          ],
-          "oneLine": "Et symbol på næring, intuition og skjulte sandheder.",
-          "summary": "Hellige brønde viser sig, når dyb healing eller indsigt er mulig.",
-          "questions": [
-            "Hvilken indre dybde kalder på at blive udforsket?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "pilgrimage_path",
@@ -12319,19 +13188,10 @@
         "spiritual-seeking",
         "commitment"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Selvet",
-            "Helten"
-          ],
-          "oneLine": "Et symbol på udvikling, dedikation og meningsfuld fremgang.",
-          "summary": "Pilegrimsveje viser sig, når du bevæger dig mod en højere retning.",
-          "questions": [
-            "Hvor kalder dit liv dig hen med større intention?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "divination_tool",
@@ -12351,19 +13211,10 @@
         "spiritual-connection",
         "revelation"
       ],
-      "theories": {
-        "jung": {
-          "archetypes": [
-            "Anima",
-            "Den Vise Gamle Kvinde"
-          ],
-          "oneLine": "Et symbol på indsigt, mysterium og søgen efter mening.",
-          "summary": "Spådomsværktøjer viser sig, når du har brug for retning eller dybere forståelse.",
-          "questions": [
-            "Hvilken kommende mulighed forsøger du at få øje på?"
-          ]
-        }
-      }
+      "theories_active": [
+        "spiritual"
+      ],
+      "theories": {}
     },
     {
       "id": "smartphone",
@@ -12382,6 +13233,9 @@
         "dependence",
         "immediacy",
         "external-input"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -12415,6 +13269,9 @@
         "information",
         "precision"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -12445,6 +13302,9 @@
         "influence",
         "validation",
         "anxiety"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -12478,6 +13338,9 @@
         "accountability",
         "boundary-awareness"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -12508,6 +13371,9 @@
         "adaptation",
         "social-pressure",
         "disembodiment"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -12541,6 +13407,9 @@
         "overwhelm",
         "time-constraint"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -12572,6 +13441,9 @@
         "burnout",
         "pressure",
         "mental-noise"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -12605,6 +13477,9 @@
         "accountability",
         "emotional-tension"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -12636,6 +13511,9 @@
         "aspiration",
         "pressure",
         "anticipation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -12669,6 +13547,9 @@
         "anxiety",
         "pressure"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -12701,6 +13582,9 @@
         "obstruction",
         "loss-of-control"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -12731,6 +13615,9 @@
         "adaptation",
         "delay",
         "social-presence"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -12764,6 +13651,9 @@
         "reliance-on-technology",
         "vulnerability"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -12795,6 +13685,9 @@
         "adaptation",
         "environmental-consciousness",
         "modern-identity"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -12828,6 +13721,9 @@
         "control",
         "exposure"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -12859,6 +13755,9 @@
         "choice",
         "distraction",
         "social-environment"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -12892,6 +13791,9 @@
         "impulse",
         "financial-stress"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -12923,6 +13825,9 @@
         "routine",
         "decision-making",
         "consumption"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -12956,6 +13861,9 @@
         "routine",
         "empowerment"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -12987,6 +13895,9 @@
         "anxiety",
         "judgment",
         "exchange"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -13020,6 +13931,9 @@
         "independence",
         "immediate-resources"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13051,6 +13965,9 @@
         "simplicity",
         "saving",
         "modest-resources"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -13084,6 +14001,9 @@
         "identity",
         "financial-boundaries"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13115,6 +14035,9 @@
         "livelihood",
         "exchange",
         "security"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -13148,6 +14071,9 @@
         "confusion",
         "scarcity"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13179,6 +14105,9 @@
         "leadership",
         "hierarchy",
         "power-dynamics"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -13212,6 +14141,9 @@
         "routine",
         "shared-goals"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13243,6 +14175,9 @@
         "uncertainty",
         "growth",
         "anticipation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -13276,6 +14211,9 @@
         "progress",
         "validation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13307,6 +14245,9 @@
         "pressure",
         "innovation",
         "self-direction"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -13340,6 +14281,9 @@
         "performance",
         "tension"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13371,6 +14315,9 @@
         "performance",
         "anticipation",
         "social-tension"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -13404,6 +14351,9 @@
         "vulnerability",
         "instability"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13435,6 +14385,9 @@
         "responsibility",
         "imbalance",
         "stress"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -13468,6 +14421,9 @@
         "conflict",
         "power-dynamics"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13499,6 +14455,9 @@
         "anxiety",
         "obligation",
         "limitation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -13532,6 +14491,9 @@
         "insecurity",
         "urgency"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13563,6 +14525,9 @@
         "transformation",
         "fear",
         "instability"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -13596,6 +14561,9 @@
         "chance",
         "pressure"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13627,6 +14595,9 @@
         "financial-stress",
         "adjustment",
         "instability"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -13660,6 +14631,9 @@
         "comfort",
         "daily-life"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13691,6 +14665,9 @@
         "life-force",
         "simplicity",
         "healing"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -13724,6 +14701,9 @@
         "pleasure",
         "natural-energy"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13756,6 +14736,9 @@
         "simplicity",
         "vitality"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13786,6 +14769,9 @@
         "grounding",
         "nourishment",
         "primal-energy"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -13819,6 +14805,9 @@
         "comfort",
         "emotional-soothing"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13850,6 +14839,9 @@
         "sweetness",
         "temptation",
         "emotional-reward"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -13883,6 +14875,9 @@
         "quick-gratification",
         "stress-eating"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13914,6 +14909,9 @@
         "emotional-numbing",
         "desire",
         "social-pressure"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -13947,6 +14945,9 @@
         "alertness",
         "ritual"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -13977,6 +14978,9 @@
         "patience",
         "care",
         "preparation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -14010,6 +15014,9 @@
         "control",
         "craftsmanship"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14041,6 +15048,9 @@
         "transformation",
         "simplicity",
         "choice"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -14074,6 +15084,9 @@
         "process",
         "completion"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14105,6 +15118,9 @@
         "learning",
         "planning",
         "transformation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -14138,6 +15154,9 @@
         "nourishment",
         "bonding"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14169,6 +15188,9 @@
         "hospitality",
         "interaction",
         "experience"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -14202,6 +15224,9 @@
         "excess",
         "ritual"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14233,6 +15258,9 @@
         "routine",
         "consumption",
         "preparation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -14266,6 +15294,9 @@
         "preservation",
         "moderation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14298,6 +15329,9 @@
         "purpose",
         "individuation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14328,6 +15362,9 @@
         "decision-making",
         "boundaries",
         "rational-mind"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -14361,6 +15398,9 @@
         "appearance",
         "adaptation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14391,6 +15431,9 @@
         "relationship-energy",
         "creativity",
         "unconscious-guide"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -14423,6 +15466,9 @@
         "willpower",
         "unconscious-structure"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14453,6 +15499,9 @@
         "emotional-support",
         "care",
         "life-source"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -14485,6 +15534,9 @@
         "power",
         "direction"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14515,6 +15567,9 @@
         "dependency",
         "creativity",
         "emotional-purity"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -14547,6 +15602,9 @@
         "mentorship",
         "inner-knowledge"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14577,6 +15635,9 @@
         "transformation",
         "humor",
         "shadow-aspect"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -14609,6 +15670,9 @@
         "unconscious-material",
         "integration-challenge"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14639,6 +15703,9 @@
         "emotional-devouring",
         "enmeshment",
         "shadow-feminine"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -14671,6 +15738,9 @@
         "shadow-masculine",
         "control"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14702,6 +15772,9 @@
         "conflict",
         "unconscious-fear"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14732,6 +15805,9 @@
         "inevitability",
         "rebirth-potential",
         "shadow-transition"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -14765,6 +15841,9 @@
         "sacrifice",
         "self-overcoming"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14795,6 +15874,9 @@
         "new-cycle",
         "release",
         "spiritual-shift"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -14828,6 +15910,9 @@
         "determination",
         "action"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14859,6 +15944,9 @@
         "manifestation",
         "creativity",
         "inner-alchemy"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -14892,6 +15980,9 @@
         "inspiration",
         "transformation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14923,6 +16014,9 @@
         "shadow-material",
         "persistence",
         "inner-warning"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -14956,6 +16050,9 @@
         "uncertainty",
         "self-exploration"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -14987,6 +16084,9 @@
         "fear-of-failure",
         "urgency",
         "expectation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15020,6 +16120,9 @@
         "search",
         "unresolved-need"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -15051,6 +16154,9 @@
         "blockage",
         "exploration",
         "frustration"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15084,6 +16190,9 @@
         "confusion",
         "emotional-loop"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -15115,6 +16224,9 @@
         "escape",
         "fatigue",
         "inner-retreat"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15148,6 +16260,9 @@
         "pattern-awareness",
         "inner-block"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -15179,6 +16294,9 @@
         "instability",
         "self-exploration",
         "transition"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15212,6 +16330,9 @@
         "rapid-change",
         "perspective-shift"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -15243,6 +16364,9 @@
         "inner-child-work",
         "emotional-rediscovery",
         "renewal"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15276,6 +16400,9 @@
         "raw-emotion",
         "embodiment"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -15307,6 +16434,9 @@
         "release",
         "escape",
         "expanded-awareness"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15340,6 +16470,9 @@
         "transformation",
         "emotional-release"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -15371,6 +16504,9 @@
         "transformation",
         "vulnerability",
         "unconscious-transition"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15404,6 +16540,9 @@
         "saturation",
         "urgency"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -15435,6 +16574,9 @@
         "expectation",
         "vulnerability",
         "tension"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15468,6 +16610,9 @@
         "insecurity",
         "emotional-pain"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -15499,6 +16644,9 @@
         "pressure",
         "avoidance",
         "stress"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15532,6 +16680,9 @@
         "fear",
         "vulnerability"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -15563,6 +16714,9 @@
         "vulnerability",
         "stuckness",
         "surrender"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15596,6 +16750,9 @@
         "vulnerability",
         "cleansing"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -15627,6 +16784,9 @@
         "vulnerability",
         "incompleteness",
         "inner-call"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15660,6 +16820,9 @@
         "pressure",
         "self-evaluation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -15691,6 +16854,9 @@
         "unresolved-issue",
         "panic",
         "survival-instinct"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15724,6 +16890,9 @@
         "visibility",
         "insecurity"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -15755,6 +16924,9 @@
         "self-doubt",
         "collapse",
         "frustration"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15788,6 +16960,9 @@
         "resistance",
         "psychological-barrier"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -15818,6 +16993,9 @@
         "panic",
         "overwhelm",
         "vulnerability"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15851,6 +17029,9 @@
         "urgency",
         "fear-of-loss"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -15882,6 +17063,9 @@
         "urgency",
         "structure",
         "transition"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15915,6 +17099,9 @@
         "cycles",
         "inevitability"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -15946,6 +17133,9 @@
         "anticipation",
         "passage-of-time",
         "reflection"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -15979,6 +17169,9 @@
         "transition",
         "intuition"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16010,6 +17203,9 @@
         "exposure",
         "activity",
         "awareness"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -16043,6 +17239,9 @@
         "creation",
         "transformation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16074,6 +17273,9 @@
         "progress",
         "evolution",
         "unfolding"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -16107,6 +17309,9 @@
         "acceptance",
         "transformation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16138,6 +17343,9 @@
         "release",
         "shadow-process",
         "rebirth-potential"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -16171,6 +17379,9 @@
         "reintegration",
         "spiritual-growth"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16202,6 +17413,9 @@
         "unconscious-cycle",
         "persistence",
         "return"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -16235,6 +17449,9 @@
         "natural-rhythm",
         "transformation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16266,6 +17483,9 @@
         "transition",
         "routine",
         "flow"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -16299,6 +17519,9 @@
         "unconscious-influence",
         "transformation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16330,6 +17553,9 @@
         "change",
         "balance",
         "natural-cycles"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -16363,6 +17589,9 @@
         "transition",
         "potential"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16394,6 +17623,9 @@
         "withdrawal",
         "transition",
         "intuition"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -16427,6 +17659,9 @@
         "threshold",
         "unconscious-shift"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16458,6 +17693,9 @@
         "transformation",
         "ritual-significance",
         "natural-power"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -16491,6 +17729,9 @@
         "new-cycle",
         "transformation"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16522,6 +17763,9 @@
         "illumination",
         "insight",
         "spiritual-guidance"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -16555,6 +17799,9 @@
         "confusion",
         "introspection"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16586,6 +17833,9 @@
         "anger",
         "desire",
         "life-force"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -16619,6 +17869,9 @@
         "peace",
         "reflection"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16650,6 +17903,9 @@
         "emotional-fog",
         "insecurity",
         "distortion"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -16683,6 +17939,9 @@
         "awakening",
         "tension"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16714,6 +17973,9 @@
         "fear",
         "uncertainty",
         "unconscious-communication"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -16747,6 +18009,9 @@
         "resonance",
         "inner-message"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16778,6 +18043,9 @@
         "distance",
         "unresolved-issues",
         "inner-voice"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -16811,6 +18079,9 @@
         "withdrawal",
         "emotional-halt"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16842,6 +18113,9 @@
         "vulnerability",
         "anxiety",
         "sudden-drop"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -16875,6 +18149,9 @@
         "calmness",
         "dream-lucidity"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16906,6 +18183,9 @@
         "intensity",
         "discomfort",
         "activation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -16939,6 +18219,9 @@
         "withdrawal",
         "insecurity"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -16970,6 +18253,9 @@
         "suppression",
         "fear",
         "powerlessness"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -17003,6 +18289,9 @@
         "emotional-stirring",
         "unconscious-alert"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -17034,6 +18323,9 @@
         "emotional-awakening",
         "nervous-response",
         "activation"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
@@ -17067,6 +18359,9 @@
         "tension",
         "insight"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -17099,6 +18394,9 @@
         "unconscious-awareness",
         "mystery"
       ],
+      "theories_active": [
+        "jung"
+      ],
       "theories": {
         "jung": {
           "archetypes": [
@@ -17130,6 +18428,9 @@
         "fear",
         "presence",
         "deep-unconscious"
+      ],
+      "theories_active": [
+        "jung"
       ],
       "theories": {
         "jung": {
